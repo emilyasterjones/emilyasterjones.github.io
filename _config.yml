@@ -209,39 +209,39 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _teaching+service
   - scope:
       path: ""
-      type: teaching
+      type: teaching+service
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _dei
   - scope:
       path: ""
-      type: portfolio
+      type: dei
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _resources
   - scope:
       path: ""
-      type: talks
+      type: resources
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
