@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily A. Aery Jones | Stanford University"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : &name "Emily A. Aery Jones"
 description              : &description ""
 url                      : https://emilyasterjones.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Emily Aery Jones"
-  avatar           : "headshot.png"
+  avatar           : "images/headshot.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/"
-  googlescholar    : "https://scholar.google.com/citations?user=YGv9YqAAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=YGv9YqAAAAAJ&hl=en"
   email            : "emily.aster.jones@stanford.edu"
   researchgate     : "https://www.researchgate.net/profile/Emily_Jones50"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://www.linkedin.com/pub/emily-jones/74/b04/46b"
+  linkedin         : #"http://www.linkedin.com/pub/emily-jones/74/b04/46b"
   orcid            : "http://orcid.org/0000-0001-8180-3267"
   pinterest        :
   soundcloud       :
