@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Emily A. Aery Jones"
-title_separator          : "|"
+title_separator          : " | "
 name                     : &name "Emily A. Aery Jones"
 description              : &description ""
 url                      : https://emilyjon.es # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
