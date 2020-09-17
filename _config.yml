@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily Aery Jones"
-  avatar           : "images/headshot.jpg"
+  avatar           : "headshot.jpg"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
@@ -130,6 +130,7 @@ exclude:
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
+  - CNAME
   - Capfile
   - Gemfile
   - Gruntfile.js
