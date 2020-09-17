@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Teaching
 ====
 
@@ -39,6 +41,8 @@ Teaching
 
 **Organic Chemistry Tutor: Univerity Honors Program, 2011 - 2012**
 * Tutored several students weekly over three semesters
+
+
 
 Academic Service
 ====

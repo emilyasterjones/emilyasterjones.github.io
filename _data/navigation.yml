@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Research"
     url: /research/
@@ -16,4 +16,4 @@ main:
     url: /resources/
     
   - title: "CV"
-    url: /cv/
+    url: /files/EJ_CV.pdf
