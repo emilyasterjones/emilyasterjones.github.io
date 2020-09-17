@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Emily A. Aery Jones | Stanford University"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Emily A. Aery Jones"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://emilyjon.es # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emilyasterjones/emilyasterjones.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily A. Aery Jones"
-  avatar           : "images/headshot.png"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/"
-  googlescholar    : "https://scholar.google.com/citations?user=YGv9YqAAAAAJ&hl=en"
-  email            : "emily.aster.jones@stanford.edu"
-  researchgate     : "https://www.researchgate.net/profile/Emily_Jones50"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emilyasterjones"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "http://www.linkedin.com/pub/emily-jones/74/b04/46b"
-  orcid            : "http://orcid.org/0000-0001-8180-3267"
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "emilyasterjones"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
