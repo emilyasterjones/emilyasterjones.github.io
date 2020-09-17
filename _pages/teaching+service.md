@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching
-====
+## Teaching
 
-## University of California, San Francisco, Graduate Division
+**University of California, San Francisco, Graduate Division**
+====
 
 **Biomedical Sciences Incoming Student Bootcamp: May 2015 - August 2018**
 * Every summer, I taught [an interactive workshop](https://github.com/emilyasterjones/BMS-coding-bootcamp) on coding for biology that I designed.
@@ -21,7 +21,8 @@ Teaching
 **BMS255: Genetics & Genomics: January 2016 - March 2016**
 * Led review sessions and graded exams for 35 students
 
-## University of Maryland, Depts of Biology & Computer Science
+**University of Maryland, Depts of Biology & Computer Science**
+====
 
 **BSCI440: Mammalian Physiology: August 2013 - May 2014**
 * During fall semester, graded exams for 100 students and gave [an invited lecture](files/BSCI440_invited_lecture.pdf)
@@ -40,8 +41,7 @@ Teaching
 **Organic Chemistry Tutor: Univerity Honors Program, 2011 - 2012**
 * Tutored several students weekly over three semesters
 
-Academic Service
-====
+## Academic Service
 
 **Gordon Research Seminar (GRS) Co-Chair**
 
@@ -54,7 +54,8 @@ _Inhibition in the CNS GRS, 2019 - Present_
 _Summer 2020_
 * Virtually mentored a high school student completing a senior thesis project on [detecting dentate spikes](https://github.com/y-kim-3/SRP2020/tree/master/Dentate%20Spikes) from my [published data](http://crcns.org/data-sets/hc/hc-26/about-hc-26)
 
-## Gladstone Institutes
+**Gladstone Institutes**
+====
 
 **GO Co-Chair**
 
@@ -86,7 +87,8 @@ _Gladstone Institutes, 2015 & 2016_
 * Mentored 1 high school student with previous lab experience for 1 summer and 1 high school student with no lab experience for 2 summers
 * Interns could successfully analyze a paper to present in a journal club format, show mastery of basic lab skills, and synthesize their work into a final oral presentation by the end of the summer
 
-## University of Maryland
+**University of Maryland**
+====
 
 **Editor-in-Chief**
 
