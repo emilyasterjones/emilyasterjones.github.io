@@ -59,6 +59,9 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 ## Natural selection of intrinsic disorder characteristic of proteins
 _Undergraduate Research Assistant in Dr. Sridhar Hannenhalli's lab at the University of Maryland Center for Bioinformatics and Computational Biology, May 2013 - August 2014_
 
+
+![IDP project](../images/idp.png)
+
 Intrinsically disordered proteins lack stable tertiary structure, are recent in molecular evolution, and are highly regulated due to their low affinity for their substrates. This disorder is selected for even when the underlying sequence is not conserved; thus, I developed a new method of modeling in silico evolution which measures selection for protein properties not directly encoded in the sequence. My algorithm used protein orthologs to create synthetic proteins using the same parameters as in vivo sequence evolution, then measured purifying selection for disorder by comparing selected mutations to non-selected ones. The resulting selection showed enrichment for disorder in particular between less conserved sequences. This algorithm could be used in the future to measuring purifying selection of other protein properties not directly encoded in the sequence, such as overall charge or polarity. Moreover, since proteins with high intrinsic disorder are enriched in cell signaling, transcription, and chromatin remodeling, identifying proteins with high selective pressures could help detect novel proteins involved in cancer and neurodegenerative diseases.
 
 **Posters**
@@ -66,6 +69,7 @@ Intrinsically disordered proteins lack stable tertiary structure, are recent in 
 
 ## The impact of prenatal nicotine exposure on impulsivity and neural firing in the medial prefrontal cortex
 _Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at the University of Maryland Department of Psychology, May 2011 - May 2014_
+
 
 ![Gemstone project](../images/stop_signal.png)
 
@@ -86,7 +90,8 @@ Behavioral, neurochemical, and neuroanatomical disturbances following prenatal n
 ## Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP
 _Montgomery Blair Magnet Program Senior Research Project in Dr. Lee Eident's lab at the National Institute of Mental Health, June 2009 - August 2009_
 
-![Thesis projects](../images/western_blot.png)
+
+![SRP projects](../images/western_blot.png)
 
 * [Thesis talk](../files/SRP seminar.pdf)
 
