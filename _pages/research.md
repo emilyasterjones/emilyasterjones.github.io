@@ -84,6 +84,7 @@ Behavioral, neurochemical, and neuroanatomical disturbances following prenatal n
 			
 ## Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP
 _Montgomery Blair Magnet Program Senior Research Project in Dr. Lee Eident's lab at the National Institute of Mental Health, June 2009 - August 2009_
+![Thesis projects](../images/western_blot.png)
 
 * [Thesis talk](../files/SRP seminar.pdf)
 
