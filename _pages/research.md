@@ -12,7 +12,7 @@ redirect_from:
 ## Investigating how medial entorhinal cortical sequences support spatial navigation and learning
 _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 2019 - Present_
 
-![Postdoc project](Aims.png)
+![Postdoc project](https://emilyjon.es/images/Aims.png)
 
 **Questions that interest me**
 * What content do entorhinal replays represent?
