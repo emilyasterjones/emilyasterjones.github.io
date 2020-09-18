@@ -14,6 +14,9 @@ main:
     
   - title: "DEI"
     url: /dei/
+    
+   - title: "GRS"
+    url: /grs/
         
   - title: "Resources"
     url: /resources/

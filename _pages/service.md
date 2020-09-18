@@ -9,7 +9,8 @@ author_profile: true
 
 **Gordon Research Seminar (GRS) Co-Chair**
 
-_Inhibition in the CNS GRS, 2019 - Present_
+_[Inhibition in the CNS GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), 2019 - Present_
+* Designing a diverse & inclusive conference
 * Fundraising from scientific companies and foundations
 * Recruiting to build a diverse agenda of speakers
 

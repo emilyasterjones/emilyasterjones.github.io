@@ -16,4 +16,6 @@ I recently completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentor
 
 September 2020: Refreshed this website using the academic pages format, and added several [resources](/resources/) and a [DEI statement](/dei/).
 
+I am co-chairing the 2021 [Inhibition in the CNS Gordon Research Seminar](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/). All are welcome to apply! Check out [how we designed this conference to be open & inclusive](/grs/).
+
 June 2020: My last name changed from Jones to Aery Jones.
