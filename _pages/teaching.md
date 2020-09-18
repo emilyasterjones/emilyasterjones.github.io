@@ -19,7 +19,7 @@ author_profile: true
 ## University of Maryland, Depts of Biology & Computer Science
 
 **BSCI440: Mammalian Physiology: August 2013 - May 2014**
-* During fall semester, graded exams for 100 students and gave [an invited lecture](files/BSCI440_invited_lecture.pdf)
+* During fall semester, graded exams for 100 students and gave [an invited lecture](../files/BSCI440_invited_lecture.pdf)
 * During spring semester, designed and gave weekly 3-hour interactive review lectures, created review content including discussion question sets and handouts, and graded presentations and exams for 15 students
 
 **CMSC423: Bioinformatics Algorithms, Databases, & Tools: September 2013 - December 2013**
@@ -30,7 +30,7 @@ author_profile: true
 * I receieved the Computer Science Department Teaching Excellence Award for this course based on nominations by my students
 
 **Volunteer Teacher: SplashUMBC, May 2012**
-* Designed and presented a [2-hour minicourse on human evolution including a species evolution RPG activity](files/SPLASH_talk.zip) to high school students.
+* Designed and presented a [2-hour minicourse on human evolution including a species evolution RPG activity](../files/SPLASH_talk.zip) to high school students.
 
 **Organic Chemistry Tutor: Univerity Honors Program, 2011 - 2012**
 * Tutored several students weekly over three semesters
