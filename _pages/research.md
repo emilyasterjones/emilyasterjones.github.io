@@ -12,7 +12,7 @@ redirect_from:
 ## Investigating how medial entorhinal cortical sequences support spatial navigation and learning
 _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 2019 - Present_
 
-![Postdoc project2](Aims.png)
+![Postdoc project2](../images/Aims.png)
 
 **Questions that interest me**
 * What content do entorhinal replays represent?
@@ -61,7 +61,7 @@ _Undergraduate Research Assistant in Dr. Sridhar Hannenhalli's lab at the Univer
 During my undergraduate, I explored 2 research intersts: computational biology and neuroscience. In my computational biology research, I worked on 2 projects. First, I examined how the location of enhancers relative to the promoter affects the direction of modulation by the enhancer. Downregulating promoters in introns are found closer to the promoter, while the opposite is true in enhancer outside of genes. These results could help direct screens for modulators of transcription of disease-related genes. Second, I developed a new method of modeling in silico evolution which measures selection for intrinsic disorder and found enrichment for disorder in less conserved sequences. Since proteins with high intrinsic disorder are enriched in cell signaling, transcription, and chromatin remodeling, this algorithm could assist in the identification of novel proteins involved in cancer and neurodegenerative diseases. 
 
 **Posters**
-* November 2013: [Natural Selection of Intrinsic Disorder Characteristic of Proteins](files/IDP poster.pdf). University of Maryland Bioscience Research Day, College Park, MD.
+* November 2013: [Natural Selection of Intrinsic Disorder Characteristic of Proteins](.../files/IDP poster.pdf). University of Maryland Bioscience Research Day, College Park, MD.
 
 ## The impact of prenatal nicotine exposure on impulsivity and neural firing in the medial prefrontal cortex
 _Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at the University of Maryland Department of Psychology, May 2011 - May 2014_
@@ -75,20 +75,17 @@ _Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at t
 **Posters**
 * November 2013: [Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Acitivity in Medial Prefrontal Cortex](files/RITALIN SfN poster.pdf). Society for Neuroscience Annual Meeting, San Diego, CA.
 * May 2013: [Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine](files/RITALIN URD poster.pdf). University of Maryland Undergraduate Research Day, College Park, MD.
-* March 2013:  [Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine](files/RITALIN HHMI poster.pdf). Howard Hughes Medical Institute (HHMI) Undergraduate Research Symposium, College Park, MD.</p>
+* March 2013:  [Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine](files/RITALIN HHMI poster.pdf). Howard Hughes Medical Institute (HHMI) Undergraduate Research Symposium, College Park, MD.
 
 			
 ## Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP
 _Montgomery Blair Magnet Program Senior Research Project in Dr. Lee Eident's lab at the National Institute of Mental Health, June 2009 - August 2009_
 
+* [Thesis talk](files/SRP seminar.pdf)
+
 **Publications**
 * [Senior thesis](files/SRP paper.pdf)
 * I am not an author on any publications from this research. However, I contributed data collection and analysis to two papers: [Holighaus et al, 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163081/) and [Holighaus et al, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256285/)
-				
-				
-<span class="title">Presentations</span>
-				_Jones, E.A._, Holighaus, Y., Eiden, L. E. (April, 2010). <a href="SRP seminar.pdf" target="_blank">Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP. (Senior thesis). Final project seminar presented at Blair Magnet Senior Research Symposium.
-				
-				_Jones, E.A._, Holighaus, Y., Eiden, L. E. (April, 2010). <a href="SRP poster.pdf" target="_blank">Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP. (Senior thesis). Poster session presented at Blair Magnet Senior Research Symposium.</p>
 
-
+**Posters**
+* April 2010: [Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP](files/SRP poster.pdf). Blair Magnet Senior Research Symposium in Silver Spring, MD.
