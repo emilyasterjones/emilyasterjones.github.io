@@ -24,6 +24,7 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 
 **Publications**
+* [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
 * Najm, R., Zalocusky, K.A., Zilberter, M., Yoon, S.Y., Hao, Y., Taubes, A., _Jones, E. A._, Koutsodendris, N., Nelson, M., Rao, A., Huang, Y. In Vivo Chimeric Alzheimer’s Disease Modeling of Apolipoprotein E4 Toxicity in Human Neurons. [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124720309438).
 * _Jones, E. A._, Gillespie, A. K., Yoon, S. Y., Frank, L. M., Huang, Y. Early Hippocampal Sharp-Wave Ripple Deficits Predict Later Learning and Memory Impairments in an Alzheimer’s Disease Mouse Model. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1). 
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/596569v1.full)
@@ -51,56 +52,35 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 * _Jones, E.A._, Gillespie, A.K., Lin, Y.H., Yoon, S.Y., Najm, R., Frank, L.M., Huang, Y. (2017, June). Apolipoprotein E4-induced Hippocampal Network Activity Deficits Reflect Cell-Type-Specific Gains of Toxic Function. Inhibition in the CNS Gordon Research Conference, Les Diablerets, Switzerland.
 
 				
-<div id="left_col" style="width: 580px">
-						<span class="medium_title">Natural selection of intrinsic disorder characteristic of proteins</span>
-						
-</div>
-<div id="right_col" style="width: 210px; margin-bottom:-50px;">
-<img src="images/CBCB_logo.png" style="width:200px;">
-</div>						
-<div class="item" style="width: 800px;">
-<p>
-				<span class="subtitle">Undergraduate Research Assistant in Dr. Sridhar Hannenhalli's lab at the University of Maryland Center for Bioinformatics and Computational Biology, May 2013 - August 2014</span>
-				<p style="margin-top: 0px;">
+## Natural selection of intrinsic disorder characteristic of proteins
+Undergraduate Research Assistant in Dr. Sridhar Hannenhalli's lab at the University of Maryland Center for Bioinformatics and Computational Biology, May 2013 - August 2014
 
-<span class="title">Presentations</span>
-				_Jones, E. A._, Alemu, E., Hannenhalli, S. (2013, November). <a href="files/IDP poster.pdf" target="_blank">Natural Selection of Intrinsic Disorder Characteristic of Proteins. Poster session presented at the University of Maryland Bioscience Research Day, College Park, MD.
-</p>
-<div id="left_col" style="margin-bottom: -35px">
-						<span class="medium_title">The impact of prenatal nicotine exposure on impulsivity and neural firing in the medial prefrontal cortex</span>
-						<span class="subtitle">Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at the University of Maryland Department of Psychology, May 2011 - May 2014</span>
-						
-</div>
-<div id="right_col">
-<img src="images/Gemstone_logo.png" style="width:100px; margin-bottom: -50px">
-</div>						
-<div class="item" style="width: 800px;">
-<p>
-				
+**Posters**
+* _Jones, E. A._, Alemu, E., Hannenhalli, S. (2013, November). [Natural Selection of Intrinsic Disorder Characteristic of Proteins](files/IDP poster.pdf). University of Maryland Bioscience Research Day, College Park, MD.
 
-				<span class="title">Publications</span>
-				Bryden, D. W., Burton, A. C., Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Roesch, M. R. (2016, February). Prenatal Nicotine Exposure Impairs Executive Control Signals in Medial Prefrontal Cortex. [Neuropsychopharmacology](https://www.nature.com/articles/npp2015197)
-				
-				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K.,  Zhan, A. (2014, May). <a href="files/RITALIN final thesis.pdf" target="_blank">The Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Firing in the Medial Prefrontal Cortex (Honors thesis). Retrieved from Digital Repository at the University of Maryland. (Accession No. 1903/15539)
+## The impact of prenatal nicotine exposure on impulsivity and neural firing in the medial prefrontal cortex</span>
+Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at the University of Maryland Department of Psychology, May 2011 - May 2014
+						
+**Publications**
+* [Thesis](https://drum.lib.umd.edu/handle/1903/15539)
+* Bryden, D. W., Burton, A. C., Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Roesch, M. R. (2016, February). Prenatal Nicotine Exposure Impairs Executive Control Signals in Medial Prefrontal Cortex. [Neuropsychopharmacology](https://www.nature.com/articles/npp2015197)
+
+**Posters**
+* Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, November). [Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Acitivity in Medial Prefrontal Cortex](files/RITALIN SfN poster.pdf). Society for Neuroscience Annual Meeting, San Diego, CA.
+* Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, May). [Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine](files/RITALIN URD poster.pdf). University of Maryland Undergraduate Research Day, College Park, MD.
+* Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, March). [Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine](files/RITALIN HHMI poster.pdf). Howard Hughes Medical Institute (HHMI) Undergraduate Research Symposium, College Park, MD.</p>
+
 				<span class="title">Presentations</span>
-				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K.,  Zhan, A. (2014, April). <a href="files/RITALIN Thesis Presentation.pdf" target="_blank">The Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Firing in the Medial Prefrontal Cortex (Honors thesis). Thesis defense presented at Gemstone Thesis Symposium, College Park, MD. (Accession No. 1903/15539)
-				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, November). <a href="files/RITALIN SfN poster.pdf" target="_blank">Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Acitivity in Medial Prefrontal Cortex. Poster session presented at the Society for Neuroscience Annual Meeting, San Diego, CA.
+				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K.,  Zhan, A. (2014, April). <a href="files/RITALIN Thesis Presentation.pdf" target="_blank">The Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Firing in the Medial Prefrontal Cortex (Honors thesis). Thesis defense presented at Gemstone Thesis Symposium, College Park, MD.
 				
-				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, May). <a href="files/RITALIN URD poster.pdf" target="_blank">Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine. Poster session presented at the University of Maryland Undergraduate Research Day, College Park, MD.
-				
-				Barnett, B. R., Cohen, V. J., Hearn, T. N., _Jones, E. A._, Kariyil, R. J., Kunin, A., Kwak, S. I., Lee, J., Lubinski, B. L., Rao, G. K., Zhan, A., Bryden, D. W., Burton, A. C., Roesch, M. R. (2013, March). <a href="files/RITALIN HHMI poster.pdf" target="_blank">Validating an Animal Model of Attention Deficit Hyperactivity Disorder: Neural and Behavioral Correlates of Impulsivity in Rats Prenatally Exposed to Nicotine. Poster session presented at the Howard Hughes Medical Institute (HHMI) Undergraduate Research Symposium, College Park, MD.</p>
+## Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP
+Montgomery Blair Magnet Program Senior Research Project in Dr. Lee Eident's lab at the National Institute of Mental Health, June 2009 - August 2009
 
+**Publications**
+* [Senior thesis](files/SRP paper.pdf)
+
+I am not an author on any publications from this research. However, I contributed data collection and analysis to two papers: [Holighaus et al, 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163081/) and [Holighaus et al, 2012](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256285/)
 				
-<div id="left_col" style="width: 580px">
-						<span class="medium_title">Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP</span>
-						
-</div>
-<div id="right_col" style="margin-bottom: -100px;">
-<img src="images/NIMH_logo.png" style="width:105px;">
-</div>						
-<div class="item" style="width: 800px;">
-<p><span class="title">Publications</span>
-				I am not an author on any publications from this research. However, I contributed data collection and analysis to two papers: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3163081/" target="_blank">Holighaus et al, 2011 and <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3256285/" target="_blank">Holighaus et al, 2012
 				
 				I also authored an unpublished senior thesis:
 				_Jones, E.A._, Holighaus, Y., Eiden, L. E. (April, 2010). <a href="SRP paper.pdf" target="_blank">Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP. (Senior thesis).
@@ -112,14 +92,3 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 				_Jones, E.A._, Holighaus, Y., Eiden, L. E. (April, 2010). <a href="SRP poster.pdf" target="_blank">Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP. (Senior thesis). Poster session presented at Blair Magnet Senior Research Symposium.</p>
 
 
-early....
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="70777194"></div>
-<span class="__dimensions_badge_embed__" data-id="pub.1122693639"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-review....
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="61905629"></div>
-<span class="__dimensions_badge_embed__" data-id="pub.1117052143"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
