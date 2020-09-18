@@ -66,6 +66,7 @@ Intrinsically disordered proteins lack stable tertiary structure, are recent in 
 
 ## The impact of prenatal nicotine exposure on impulsivity and neural firing in the medial prefrontal cortex
 _Gemstone Honors Program Member of Team RITALIN in Dr. Matthew Roesch's lab at the University of Maryland Department of Psychology, May 2011 - May 2014_
+
 ![Gemstone project](../images/stop_signal.png)
 
 Behavioral, neurochemical, and neuroanatomical disturbances following prenatal nicotine exposure (PNE) suggest that PNE could serve as a model of ADHD, a disorder which has not been well-characterized in animal models. To confirm the face and construct validity of this model, we measured single-unit neuronal firing in the medial prefrontal cortex (mPFC) in PNE rats during the stop-signal task, which measures inhibition of an already-initiated action. Consistent with our hypothesis, we found that PNE rats were faster and more impulsive, and that mPFC activity was modulated by trial direction and type. PNE mPFC neurons were overall hypoactive as compared to controls, but the directional encoding was not affected. This suggests that reduced firing in the mPFC may promote impulsive behavior and that general increases in mPFC activity might rescue the deficits observed following PNE. Our research is the first connection between an environmental cause of ADHD, impulsivity symptoms, and the underlying neural firing patterns. Thus, we discovered PNE rats could be a unique model of this multi-faceted disorder.
@@ -84,6 +85,7 @@ Behavioral, neurochemical, and neuroanatomical disturbances following prenatal n
 			
 ## Western blot semi-quantitative analysis of non-canonical cAMP-dependent protein expression induced by PACAP
 _Montgomery Blair Magnet Program Senior Research Project in Dr. Lee Eident's lab at the National Institute of Mental Health, June 2009 - August 2009_
+
 ![Thesis projects](../images/western_blot.png)
 
 * [Thesis talk](../files/SRP seminar.pdf)
