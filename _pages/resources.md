@@ -20,6 +20,7 @@ I wrote [2 tools](https://github.com/emilyasterjones/bioRxiv_speaker_finder) to 
 * [Workshop I developed to teach new scientists how to dissect papers](https://github.com/emilyasterjones/how-to-read-a-paper)
 * [An outline to structure mentorship of a summer intern](https://docs.google.com/document/d/1vI6Y2CYhnJibP26MSLGcpTp8DGWNLv-sC5pXvsJZOfI/edit?usp=sharing)
 * My NSF [Personal Statement](files/NSF Personal Statement.pdf) and [Research Proposal](files/NSF Research Proposal.pdf)
+* Using templates for lab notebooks is a great way to make sure you never forget to write anything down for your experiments. Here are the templates I use for my [thesis experiments](files/Neuronexus_project_template.pdf) and my [postdoc experiments](files/Neuropixels_project_template.pdf) to collect in vivo ephys data.
 
 ## Teaching
 * [Workshop to introduce biology grad students to coding](https://github.com/emilyasterjones/BMS-coding-bootcamp)

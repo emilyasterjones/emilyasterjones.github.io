@@ -13,7 +13,7 @@ redirect_from:
 ## PhD in Biomedical Sciences
 **University of California, San Francisco, October 2019**
 
-**Thesis: Sharp-Wave Ripple Alterations Mark Memory Decline and Interneuron Drive**
+**Thesis: [Sharp-Wave Ripple Alterations Mark Memory Decline and Interneuron Drive](https://escholarship.org/uc/item/2bc340d2)**
 
 Advisor: Yadong Huang, MD, PhD; Co-mentor: Loren Frank, PhD
 
@@ -37,7 +37,7 @@ Thesis Committee: Li Gan, PhD, chair; Jeanne Paz, PhD
 ## B.S. in Biological Sciences: Physiology & Neurobiology; B.S. in Computer Science
 **University of Maryland, College Park, May 2014**
 
-**Gemstone Honors Program Thesis: The Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Firing in the Medial Prefrontal Cortex**
+**Gemstone Honors Program Thesis: [The Impact of Prenatal Nicotine Exposure on Impulsivity and Neural Firing in the Medial Prefrontal Cortex](https://drum.lib.umd.edu/handle/1903/15539)**
 
 Advisor: Matthew Roesch, PhD
 
@@ -56,7 +56,7 @@ Advisor: Matthew Roesch, PhD
 * Microsoft College Puzzle Challenge: 3rd place team at UMD 2013
 	
 ## Montgomery Blair High School Magnet Program, May 2010
-**Senior Research Project: Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP**
+**Senior Research Project: [Western Blot Semi-Quantitative Analysis of Non-Canonical cAMP-Dependent Protein Expression Induced by PACAP](files/SRP paper.pdf)**
 
 Advisor: Lee Eiden, PhD
 
