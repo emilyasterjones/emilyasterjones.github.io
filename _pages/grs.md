@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Inhibtion in the CNS GRS"
+title: "Inhibition in the CNS GRS"
 permalink: /grs/
 author_profile: true
 redirect_from:
@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+See this page on my [co-chair's website](https://www.lthscience.com)
