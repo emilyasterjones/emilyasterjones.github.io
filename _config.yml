@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily Aery Jones"
+  name             : ""
   avatar           : "headshot.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : #"she/her"
   location         : #"Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/"
