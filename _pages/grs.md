@@ -77,7 +77,7 @@ We have confirmed that the venue is able to provide the following accommodations
 *   On-site childcare
 *   Gender neutral bathroom
 *   Clean & quiet prayer/safe space room
-*   Lactation room with locking door, chair, sink, paper towels & trash can
+*   Lactation room with locking door, ‘occupied’ sign, chair, outlet, sink, paper towels & trash can
 *   Reserved seats for audio/visual impaired attendees and parents
 *   “Equally Attractive Non-Alcoholic Beverages” available during social hours
 *   Mobility: accessible entrances, chairs for poster presenters
