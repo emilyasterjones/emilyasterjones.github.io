@@ -32,7 +32,7 @@ Below, we outline the conference design, which we have subtitled _Diversity of I
 
 *   We decided to rethink the standard conference practice of reaching out to your personal network and letting everyone discover your conference on their own. Instead, I (Emily) wrote a [tool to scrape publication archives](https://github.com/emilyasterjones/bioRxiv_speaker_finder) and from ~2500 abstracts on Pubmed, bioRxiv, and NH RePORTer manually curated a [1000+ lab database of scholars](https://docs.google.com/spreadsheets/d/1Epqg96lchrj3UaFpzNvBPZ3Ua7th4ddV09G4eF-pW-o/edit?usp=sharing) who meet one of more of our target diversity criteria.
 *   We then went through public lists of scientists who identify as female, LGBTQ+, and [underrepresented ethnicities](https://diversity.nih.gov/about-us/population-underrepresented) to add to the database and to explicitly invite via email. These lists are an invaluable tool, though they do put the burden on the underrepresented scholars to advocate for themselves and are therefore sparse. We hope that our broad search will help expand the list of underrepresented voices to explicitly invite.
-*   To further expand our reach, we will be soliciting nominations for PIs & trainees who meet one of more of our target diversity criteria through a [public form](https://docs.google.com/forms/d/1-O8LOPasJVtOxod4QwYaO0DG2AkQ5AISdu_wTIPgCdo/edit) and will actively advertise the conference on all social media.
+*   To further expand our reach, we will be soliciting nominations for PIs & trainees who meet one of more of our target diversity criteria through a [public form](https://docs.google.com/forms/d/e/1FAIpQLSeDuA3l23llbBtZjzuDQkTG0krnZCYmRZa50xKNdkHXVjyCnw/viewform?usp=sf_link) and will actively advertise the conference on all social media.
 *   We will also be reaching out to international neuroscience societies and underrepresented ethnicity scientist organizations to ask them to promote our conference to their members.
 *   From this list, we will reach out directly to labs or trainees who meet certain criteria (e.g. from underrepresented countries) to increase their representation at the conference. These emails will be explicit about why this lab’s or trainee’s work is important for this conference and highlight any funding we can provide and [scholarships](https://www.grc.org/about/grc-diversity-initiatives/ ) they may be eligible for. 
 
@@ -70,14 +70,14 @@ Gordon research conferences have a successful format that they encourage all con
 
 ### Accomodations
 
-We have confirmed that the venue is able to provide the following accommodations. If you are attending, please specify any accommodations you need on this list in the ‘Special Needs’ field.
+We have confirmed that the venue is able to provide the following accommodations. If you are attending, please specify any accommodations you need from this list in the ‘Special Needs’ field.
 
 
 
 *   On-site childcare
 *   Gender neutral bathroom
 *   Clean & quiet prayer/safe space room
-*   Lactation room with locking door, ‘occupied’ sign, chair, outlet, sink, paper towels & trash can
+*   Lactation room with locking door, ‘occupied’ sign, chair, outlet, sink, paper towels & trash can (fridge/freezer available in hotel rooms)
 *   Reserved seats for audio/visual impaired attendees and parents
 *   “Equally Attractive Non-Alcoholic Beverages” available during social hours
 *   Mobility: accessible entrances, chairs for poster presenters
