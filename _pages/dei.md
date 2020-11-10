@@ -44,7 +44,7 @@ Increasing diversity requires identifying lack of representation and seeking to 
 
 I am co-chairing the 2021 Inhibition in the CNS Gordon Research Seminar. My co-chair (Lauren Hewitt) and I have worked hard to make the conference as diverse and inclusive as possible, as explained in detail [here](/grs/).
 
-I currently volunteer with [Project Short](https://www.project-short.com/vision.html)
+I currently volunteer with [Project Short](https://www.project-short.com/vision.html) and will be volunteering with the new [Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) for underrepresented students.
 
 ## Future Commitments
 * Calling out conferences I attend for lack of [racial diversity](https://twitter.com/EmilyAsterJones/status/1271228741906128896)
@@ -64,3 +64,5 @@ I welcome all feedback on this statement and any of my DEI work. Please email me
 * [What Black scientists want from colleagues and their institutions](https://www.nature.com/articles/d41586-020-01883-8)
 * Identify the [gender breakdown](https://github.com/dalejn/cleanBib) and [lab/institution/journal breakdown](https://github.com/emilyasterjones/bioRxiv_speaker_finder) of your bibliography
 * A collection of articles about [building a healthy lab culture](https://twitter.com/KristinMBranson/status/1295739138973536258)
+* [Patching the Leaks: Revitalizing and Reimagining the STEM Pipeline](https://www.cell.com/cell/fulltext/S0092-8674(20)31226-5)
+* I attended the [UCSF TRAIN-UP Inclusive Research Mentor Course](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course) in 2016 and highly recommend it!
