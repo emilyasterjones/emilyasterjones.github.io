@@ -33,8 +33,9 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 **Publications**
 * [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
-* Najm, R., Zalocusky, K.A., Zilberter, M., Yoon, S.Y., Hao, Y., Taubes, A., _Jones, E. A._, Koutsodendris, N., Nelson, M., Rao, A., Huang, Y. In Vivo Chimeric Alzheimer’s Disease Modeling of Apolipoprotein E4 Toxicity in Human Neurons. [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124720309438).
-* _Jones, E. A._, Gillespie, A. K., Yoon, S. Y., Frank, L. M., Huang, Y. Early Hippocampal Sharp-Wave Ripple Deficits Predict Later Learning and Memory Impairments in an Alzheimer’s Disease Mouse Model. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1). 
+* _Jones, E. A. A._, Rao, A., Zilberter, M., Djukic, B., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. (2021, January). Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. [BioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full)
+* Najm, R., Zalocusky, K.A., Zilberter, M., Yoon, S.Y., Hao, Y., Taubes, A., _Jones, E. A._, Koutsodendris, N., Nelson, M., Rao, A., Huang, Y. (2020, July). In Vivo Chimeric Alzheimer’s Disease Modeling of Apolipoprotein E4 Toxicity in Human Neurons. [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124720309438).
+* _Jones, E. A._, Gillespie, A. K., Yoon, S. Y., Frank, L. M., Huang, Y. (2019, November). Early Hippocampal Sharp-Wave Ripple Deficits Predict Later Learning and Memory Impairments in an Alzheimer’s Disease Mouse Model. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1). 
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/596569v1.full)
 	* [dataset](http://crcns.org/data-sets/hc/hc-26/about-hc-26)
 	* [code](https://github.com/emilyasterjones/SWR-predictions)

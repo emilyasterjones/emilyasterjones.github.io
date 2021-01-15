@@ -44,7 +44,7 @@ Increasing diversity requires identifying lack of representation and seeking to 
 
 I am co-chairing the 2021 Inhibition in the CNS Gordon Research Seminar. My co-chair (Lauren Hewitt) and I have worked hard to make the conference as diverse and inclusive as possible, as explained in detail [here](/grs/).
 
-I currently volunteer with [Project Short](https://www.project-short.com/vision.html) and will be volunteering with the new [Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) for underrepresented students.
+I currently volunteer with [Project Short](https://www.project-short.com/vision.html) and will be volunteering with the new [Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) for underrepresented students and the new [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html).
 
 ## Future Commitments
 * Calling out conferences I attend for lack of [racial diversity](https://twitter.com/EmilyAsterJones/status/1271228741906128896)
