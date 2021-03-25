@@ -11,12 +11,12 @@ redirect_from:
 
 See this page on my [co-chair's website](https://www.lthscience.com/grs-conference-description)
 
-We (Emily Aery Jones & Lauren Hewitt) are organizing the [Inhibition in the CNS 2021 Gordon Research Seminar (GRS)](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), the 1-day trainee-only portion of the full-week Gordon conference. On this page, we will share the steps we are taking to build a diverse and inclusive conference.
+We (Emily Aery Jones & Lauren Hewitt) are organizing the [Inhibition in the CNS 2023 Gordon Research Seminar (GRS)](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), the 1-day trainee-only portion of the full-week Gordon conference. On this page, we will share the steps we are taking to build a diverse and inclusive conference.
 
 
 ## Introduction
 
-When we were elected to chair the Inhibition in the CNS 2021 GRS, we ran on a platform of increasing diversity and representation across several axes. Those axes included: brain regions, animal models, levels of abstraction, labs, countries of origin, ethnicities, and genders. We prioritized these axes based on resounding feedback from 2019 conference attendees. Greater diversity along gender and ethnicity axes leads to higher impact science ([Campbell et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079147),[ Freeman & Huang 2014](https://www.nber.org/papers/w19905), [AlShebli et al, 2018](https://www.nature.com/articles/s41467-018-07634-8)). We envision that diversity along all these axes will create a more vibrant and engaging conference experience.
+When we were elected to chair the Inhibition in the CNS 2023 GRS, we ran on a platform of increasing diversity and representation across several axes. Those axes included: brain regions, animal models, levels of abstraction, labs, countries of origin, ethnicities, and genders. We prioritized these axes based on resounding feedback from 2019 conference attendees. Greater diversity along gender and ethnicity axes leads to higher impact science ([Campbell et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0079147),[ Freeman & Huang 2014](https://www.nber.org/papers/w19905), [AlShebli et al, 2018](https://www.nature.com/articles/s41467-018-07634-8)). We envision that diversity along all these axes will create a more vibrant and engaging conference experience.
 
 Our own privilege affords us power to make these changes. To borrow from Lilla Watson, our success is bound up with the success of everyone. We acknowledge that the attendees have experienced discrimination in their careers, that their experiences are valid, and that it is on us to raise awareness and not let them happen again. We further recognize that representation matters, and whoever speaks has power. Therefore, it is on us to be intentional in our design such that all are welcome and thrive.
 
@@ -48,7 +48,7 @@ Below, we outline the conference design, which we have subtitled _Diversity of I
 
 ### Speaker & Attendee Selection Criteria
 
-We encourage everyone with applicable research interests to apply to Inhibition in the CNS 2021 [GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/) and [GRC](https://www.grc.org/inhibition-in-the-cns-conference/2021/). In order to have an engaging, enriching conference, we will be accepting attendees and offering speaker & discussion leader slots such that they meet our representation goals. Our hope is to make room for those who don’t usually attend this conference. This will include prioritizing the following applications:
+We encourage everyone with applicable research interests to apply to Inhibition in the CNS 2023 [GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/) and [GRC](https://www.grc.org/inhibition-in-the-cns-conference/2021/). In order to have an engaging, enriching conference, we will be accepting attendees and offering speaker & discussion leader slots such that they meet our representation goals. Our hope is to make room for those who don’t usually attend this conference. This will include prioritizing the following applications:
 
 
 
