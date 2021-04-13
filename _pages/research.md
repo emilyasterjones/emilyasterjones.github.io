@@ -33,7 +33,7 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 **Publications**
 * [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
-* _Jones, E. A. A._, Rao, A., Zilberter, M., Djukic, B., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. Submitted.
+* _Aery Jones, E. A., Rao, A., Zilberter, M., Djukic, B., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. Submitted.
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full)
 	* [code](https://github.com/emilyasterjones/interneurons_modulate_drive)
 	* [Twitter paper thread](https://twitter.com/EmilyAsterJones/status/1346489819891830785)
