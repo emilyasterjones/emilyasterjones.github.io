@@ -12,6 +12,7 @@ redirect_from:
 
 ## Postdoctoral Fellowship in Neurobiology
 **Stanford University, Present**
+
 **Fellowships**
 * School of Medicine Dean's Postdoctoral Fellowship
 
