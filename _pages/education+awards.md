@@ -10,6 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
+## Postdoctoral Fellowship in Neurobiology
+**Stanford University, Present**
+**Fellowships**
+* School of Medicine Dean's Postdoctoral Fellowship
+
 ## PhD in Biomedical Sciences
 **University of California, San Francisco, October 2019**
 

@@ -13,12 +13,11 @@ I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how med
 I recently completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My thesis work measured hippocampal sharp-wave ripples as a biomarker for Alzheimer's disease, as a readout for input drive as modulated by different interneuron subclasses, and as a marker for epileptiform activity in Alzheimer's model mice.
 
 **Updates**
-
 January 2021: My newest preprint, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full).
 
-September 2020: Refreshed this website using the academic pages format, and added several [resources](/resources/) and a [DEI statement](/dei/).
+I am co-chairing the [Inhibition in the CNS Gordon Research Seminar](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), which has officially been postponed until 2023. All are welcome to apply! Check out [how we designed this conference to be open & inclusive](/grs/).
 
-I am co-chairing the 2021 [Inhibition in the CNS Gordon Research Seminar](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/). All are welcome to apply! Check out [how we designed this conference to be open & inclusive](/grs/).
+September 2020: Refreshed this website using the academic pages format, and added several [resources](/resources/) and a [DEI statement](/dei/).
 
 June 2020: My last name changed from Jones to Aery Jones.
 
