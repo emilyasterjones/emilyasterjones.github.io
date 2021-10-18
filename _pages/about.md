@@ -23,4 +23,4 @@ September 2020: Refreshed this website using the academic pages format, and adde
 June 2020: My last name changed from Jones to Aery Jones.
 
 **Contact**
-[Email](mailto:emily.aster.jones@stanford.edu) | [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/) | [Twitter](https://twitter.com/EmilyAeryJones) | [Github](https://github.com/emilyasterjones/) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50)
+[Email](mailto:emily.aery.jones@stanford.edu) | [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/) | [Twitter](https://twitter.com/EmilyAeryJones) | [Github](https://github.com/emilyasterjones/) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50)

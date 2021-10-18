@@ -33,10 +33,11 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 **Publications**
 * [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
-* _Aery Jones, E. A., Rao, A., Zilberter, M., Djukic, B., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. Submitted.
+* _Aery Jones, E. A._, Rao, A., Zilberter, M., Djukic, B., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. Under Review.
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full)
 	* [code](https://github.com/emilyasterjones/interneurons_modulate_drive)
 	* [Twitter paper thread](https://twitter.com/EmilyAsterJones/status/1346489819891830785)
+* Taubes, A.T., Nova, P., Zalocusky, K.A., Kosti, I., Bicak, M., Zilberter, M., Hao, Y., Yoon, S.Y., Oskotsky, T., Pineda, S., Chen, B., _Aery Jones, E.A._, Choudhary, K., Grone, B., Balestra, M.E., Chaudhry, F., Paranjpe, I., De Frietas, J., Koutsodendris, N., Chen, N., Wang, C., Chang, W., An, A., Glicksberg, B., Sirota, M., Huang, Y. (2021, October) Experimental and real-world evidence supporting the computational repurposing of bumetanide for APOE4-related Alzheimer’s disease. [Nature Aging](https://www.nature.com/articles/s43587-021-00122-7).
 * Najm, R., Zalocusky, K.A., Zilberter, M., Yoon, S.Y., Hao, Y., Taubes, A., _Jones, E. A._, Koutsodendris, N., Nelson, M., Rao, A., Huang, Y. (2020, July). In Vivo Chimeric Alzheimer’s Disease Modeling of Apolipoprotein E4 Toxicity in Human Neurons. [Cell Reports](https://www.sciencedirect.com/science/article/pii/S2211124720309438).
 * _Jones, E. A._, Gillespie, A. K., Yoon, S. Y., Frank, L. M., Huang, Y. (2019, November). Early Hippocampal Sharp-Wave Ripple Deficits Predict Later Learning and Memory Impairments in an Alzheimer’s Disease Mouse Model. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1). 
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/596569v1.full)
