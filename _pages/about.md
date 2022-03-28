@@ -12,15 +12,12 @@ I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how med
 
 I recently completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My thesis work measured hippocampal sharp-wave ripples as a biomarker for Alzheimer's disease, as a readout for input drive as modulated by different interneuron subclasses, and as a marker for epileptiform activity in Alzheimer's model mice.
 
-**Updates**
+**Recent Updates**
+March 2022: I was awarded the {A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
 
-January 2021: My newest preprint, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, is now available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full).
+December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, is published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 
-I am co-chairing the [Inhibition in the CNS Gordon Research Seminar](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), which has officially been postponed until 2023. All are welcome to apply! Check out [how we designed this conference to be open & inclusive](/grs/).
-
-September 2020: Refreshed this website using the academic pages format, and added several [resources](/resources/) and a [DEI statement](/dei/).
-
-June 2020: My last name changed from Jones to Aery Jones.
+July 2021: I was awarded the [Stanford School of Medicine Dean's Postdoctoral Fellowship](https://postdocs.stanford.edu/deans-fellows-july-2021-start).
 
 **Contact**
 [Email](mailto:emily.aery.jones@stanford.edu) | [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/) | [Twitter](https://twitter.com/EmilyAeryJones) | [Github](https://github.com/emilyasterjones/) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50)
