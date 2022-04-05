@@ -11,7 +11,7 @@ redirect_from:
 
 See this page on my [co-chair's website](https://www.lthscience.com/grs-conference-description)
 
-We (Emily Aery Jones & Lauren Hewitt) are organizing the [Inhibition in the CNS 2023 Gordon Research Seminar (GRS)](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), the 1-day trainee-only portion of the full-week Gordon conference. On this page, we will share the steps we are taking to build a diverse and inclusive conference.
+We (Emily Aery Jones & Lauren Hewitt) are organizing the [Inhibition in the CNS 2023 Gordon Research Seminar (GRS)](https://www.grc.org/inhibition-in-the-cns-grs-conference/2023/), the 1-day trainee-only portion of the full-week Gordon conference. On this page, we will share the steps we are taking to build a diverse and inclusive conference.
 
 
 ## Introduction

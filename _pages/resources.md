@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## Publications
+* [code](https://github.com/emilyasterjones/interneurons_modulate_drive) and [data](https://gui.dandiarchive.org/#/dandiset/000165) for Aery Jones et al, 2021
 * [code](https://github.com/emilyasterjones/SWR-predictions) and [data](http://crcns.org/data-sets/hc/hc-26/about-hc-26) for Jones et al, 2019
 
 ## DEI
@@ -16,6 +17,8 @@ I wrote [2 tools](https://github.com/emilyasterjones/bioRxiv_speaker_finder) to 
 2. Citation overrepresentation tool: given a bibliography, returns which labs, institutions, & journals you cite the most
 
 ## Mentorship
+* [How to write grad school application essays](https://coggle.it/diagram/YXiKIlKX7gsyTnlK/t/phd-admissions-essays/91463e537d0a24e2f26635b6bef59b8a0a538acde0b7f42ea337005fe05f9c21)
+* [How to interview for grad school](https://coggle.it/diagram/YZVlv-lLLh-ZGbm_/t/phd-admission-interviews/43666a3279191c6b9c2156dce0bb383a83a4d3dbae0a04bb503f4df1c9e40713)
 * [Advice to new grad students](../files/Advice to New Grad Students.pdf)
 * [Workshop I developed to teach new scientists how to dissect papers](https://github.com/emilyasterjones/how-to-read-a-paper)
 * [An outline to structure mentorship of a summer intern](https://docs.google.com/document/d/1vI6Y2CYhnJibP26MSLGcpTp8DGWNLv-sC5pXvsJZOfI/edit?usp=sharing)
