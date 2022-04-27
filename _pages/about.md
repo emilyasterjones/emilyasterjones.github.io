@@ -13,7 +13,7 @@ I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how med
 I recently completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My thesis work measured hippocampal sharp-wave ripples as a biomarker for Alzheimer's disease, as a readout for input drive as modulated by different interneuron subclasses, and as a marker for epileptiform activity in Alzheimer's model mice.
 
 **Recent Updates**
-March 2022: I was awarded the {A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
+March 2022: I was awarded the [A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
 
 December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, is published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 
