@@ -14,6 +14,7 @@ redirect_from:
 **Stanford University, Present**
 
 **Fellowships**
+* A.P. Giannini Foundation Postdoctoral Research Fellowship
 * School of Medicine Dean's Postdoctoral Fellowship
 
 ## PhD in Biomedical Sciences
