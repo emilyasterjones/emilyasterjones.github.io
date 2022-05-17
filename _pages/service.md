@@ -7,17 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
+**Rotation Student Mentor**
+
+_Winter 2022_
+* Mentored 2 engineering PhD students on my main postdoctoral project
+
+**Internship Application Evaluator**
+
+_[Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) and the [Simons Foundation Summer Undergraduate Research Fellowship](https://www.simonsfoundation.org/grant/scgb-undergraduate-research-fellowship-surf-program/), 2021 - Present_
+
+**Session Moderator**
+
+_[Neuromatch 3.0 Conference](https://conference.neuromatch.io/), October 2020_
+* Moderated 5 talk sessions
+* Wrote an [MC script](https://docs.google.com/document/d/1Cxofm-8X12GgKKzjtd4B4O6Ht1ItDdGm0ZAX-qOBD6I/edit?usp=sharing) that was widely used by other volunteers
+
+**High School Student Mentor**
+
+_Summer 2020_
+* Virtually mentored a high school student completing a senior thesis project on [detecting dentate spikes](https://github.com/y-kim-3/SRP2020/tree/master/Dentate%20Spikes) from my [published data](http://crcns.org/data-sets/hc/hc-26/about-hc-26)
+
+**Pre-Grad Mentor**
+
+_[Project Short](https://www.project-short.com/vision.html) and the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html), 2020 - Present_
+
 **Gordon Research Seminar (GRS) Co-Chair**
 
 _[Inhibition in the CNS GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), 2019 - Present_
 * Designing a diverse & inclusive conference
 * Fundraising from scientific companies and foundations
 * Recruiting to build a diverse agenda of speakers
-
-**High School Student Mentor**
-
-_Summer 2020_
-* Virtually mentored a high school student completing a senior thesis project on [detecting dentate spikes](https://github.com/y-kim-3/SRP2020/tree/master/Dentate%20Spikes) from my [published data](http://crcns.org/data-sets/hc/hc-26/about-hc-26)
 
 ## Gladstone Institutes
 

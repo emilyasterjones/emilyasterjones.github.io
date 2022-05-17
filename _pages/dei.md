@@ -44,10 +44,10 @@ Increasing diversity requires identifying lack of representation and seeking to 
 
 I am co-chairing the 2023 Inhibition in the CNS Gordon Research Seminar. My co-chair (Lauren Hewitt) and I have worked hard to make the conference as diverse and inclusive as possible, as explained in detail [here](/grs/).
 
-I currently mentor underrepresented students applying to graduate programs with [Project Short](https://www.project-short.com/vision.html) and the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html). I also evaluate applications for internships designed to recruit underrepresented students for the [Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) and the [Simons Foundation Summer Undergraduate Research Fellowship](https://www.simonsfoundation.org/grant/scgb-undergraduate-research-fellowship-surf-program/).
+I currently mentor underrepresented students applying to graduate programs with [Project Short](https://www.project-short.com/vision.html) and the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html). I also evaluate applications for internships designed to recruit underrepresented students for the [Stanford Summer Research Program](https://biosciences.stanford.edu/current-students/diversity/programs-for-students/ssrp-amgen-scholars-program/) and the [Simons Foundation Summer Undergraduate Research Fellowship](https://www.simonsfoundation.org/grant/scgb-undergraduate-research-fellowship-surf-program/). I recently synthesized my takeaways from _Equity in Science_ by Dr. Julie Posselt as a [series of chapter summaries](https://twitter.com/i/events/1525985786666987521) and as a lab culture discussion session I moderated at a collaboration retreat.
 
 ## Future Commitments
-* Calling out conferences I attend for lack of [racial diversity](https://twitter.com/EmilyAsterJones/status/1271228741906128896)
+* Calling out conferences I attend for lack of [racial diversity](https://twitter.com/EmilyAeryJones/status/1313896865398624256)
 * Intentionally recruiting underrepresented and first generation undergraduate students to work in the lab
 * Opening diversity discussions with an acknowledgement of the [historical and social context in which this work was conducted](https://static1.squarespace.com/static/54b33424e4b08972957c8dcd/t/5ee1469c8a2566161953b459/1591821981292/Acknowledgement+Statement+for+Website.pdf), including the fact that my work has been conducted on the land of the Ohlone people (UCSF & Stanford) and of the Piscataway & Anacostan peoples (UMD & NIH)
 
@@ -57,7 +57,7 @@ This page was written after discussions with the Giocomo lab and our Simons coll
 I welcome all feedback on this statement and any of my DEI work. Please email me, and if you allow it, I will thank you here.
 
 ## Resources
-* Books that have shaped my ideas: _The Fire Next Time, Why I'm No Longer Talking to White People About Race, How to be Anti-Racist_
+* Books that have shaped my ideas: _The Fire Next Time, Why I'm No Longer Talking to White People About Race, How to be Anti-Racist, Equity in Science_
 * [Identifying & acknowledging native land](https://native-land.ca/)
 * [Concrete Steps for Recruiting, Supporting, and Advancing Underrepresented Minoritized Scientists](https://docs.google.com/document/d/1Ic6bil2AvrQmPFUcUyxcw_FumofKkUo3VLsU7qG0cTk/edit)
 * [Becoming Anti-Racist](https://drive.google.com/file/d/1Y6M_-Mca8vm5QKubhd1dWfsz-cAJ3Y-E/view)
