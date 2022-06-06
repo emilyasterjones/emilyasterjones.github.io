@@ -10,7 +10,9 @@ redirect_from:
 
 I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how medial entorhinal cortex might act as an adaptable substrate to support goal-oriented learning over days. Specifically, I am interested in how organization of spatial information into sequences during task engagement and replay of these sequences during task disengagement might change as learning progresses and might be required for learning rewarded locations.
 
-I recently completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My thesis work measured hippocampal sharp-wave ripples as a biomarker for Alzheimer's disease, as a readout for input drive as modulated by different interneuron subclasses, and as a marker for epileptiform activity in Alzheimer's model mice.
+Previously, I completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My [thesis work](/research) measured hippocampal sharp-wave ripples as [a biomarker for Alzheimer's disease](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1), as [a readout for input drive as modulated by different interneuron subclasses](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7)), and as a marker for epileptiform activity in Alzheimer's model mice (ongoing).
+
+As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I also co-chair the upcoming [Inhibition in the CNS GRS](/grs).
 
 **Recent Updates**
 March 2022: I was awarded the [A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).

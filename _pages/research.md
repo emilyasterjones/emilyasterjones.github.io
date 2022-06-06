@@ -17,7 +17,7 @@ _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 
 ![Postdoc project](../images/Aims.png)
 
 **Questions that interest me**
-* What content do entorhinal replays represent?
+* What content do entorhinal theta sequences and replays represent?
 * How does theta drive by medial septum organize entorhinal activity?
 * How do entorhinal theta sequences relate to replay?
 * How might organization of spatial information into theta sequences online and replays offline support reinforcement learning of goal-directed navigation?

@@ -31,7 +31,7 @@ _Summer 2020_
 
 _[Project Short](https://www.project-short.com/vision.html) and the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html), 2020 - Present_
 
-**Gordon Research Seminar (GRS) Co-Chair**
+**[Gordon Research Seminar (GRS) Co-Chair](/grs)**
 
 _[Inhibition in the CNS GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), 2019 - Present_
 * Designing a diverse & inclusive conference
