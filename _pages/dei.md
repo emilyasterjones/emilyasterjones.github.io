@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Diversity, Equity, & Inclusion Goals"
+title: "Diversity, Equity, Inclusion, & Justice Goals"
 permalink: /dei/
 author_profile: true
 redirect_from:
@@ -17,19 +17,19 @@ I have an obligation to help elevate scientists (and future scientists) from und
 
 As a neuroscientist, I understand how important brain states are to cognitive function; creating spaces in which everyone thrives is critical to do good science. I will pay attention to and call attention to discriminatory structures, because you can't fix what you don't acknowledge. I will center underrepresented voices in conversations. I will help reimagine exclusive systems to build an environment in which everyone can participate and is encouraged to do so. I will adapt my mentoring practices to meet trainees where they are. I will celebrate differences as a source of strength. I will make this work transparent by posting it here, seek accountability by asking for feedback from the community, and recognize that work in the acknowledgments below.
 
-My lived experience as a woman in predominantly male fields (computer science, then systems neuroscience) have shaped my personal approach towards diversity, equity, & inclusion. I understand how environments are designed by those in power to support them and thus exclude others. In every place I have worked or studied since middle school, I have experienced some form of gender-based harassment, one instance of which made the [Washington Post front page](https://www.washingtonpost.com/local/education/in-a-prestigious-high-school-math-and-science-program-alumni-say-metoo/2018/03/01/b17f68ac-f1b6-11e7-b390-a36dc3fa2842_story.html) after I spoke out. I understand how important representation is, and how easy it is to be blind to exclusive practices. In a computer science course, for instance, where I was part of a graduating class that was 8% female, a (white male) professor once asked us what we noticed about 4 example app users on a slide. I raised my hand and said, 'they're all white men.' I was laughed at. These experiences have driven me to examine the environments we create for the scientists we recruit and to build them to support everyone.
+My lived experience as a woman in predominantly male fields (computer science, then systems neuroscience) has shaped my personal approach towards diversity, equity, & inclusion. I understand how environments are designed by those in power to support them and thus exclude others. In every place I have worked or studied since middle school, I have experienced some form of gender-based harassment, one instance of which made the [Washington Post front page](https://www.washingtonpost.com/local/education/in-a-prestigious-high-school-math-and-science-program-alumni-say-metoo/2018/03/01/b17f68ac-f1b6-11e7-b390-a36dc3fa2842_story.html) after I spoke out. I understand how important representation is, and how easy it is to be blind to exclusive practices. In a computer science course, for instance, where I was part of a graduating class that was 8% female, a (white male) professor once asked us what we noticed about 4 example app users on a slide. I raised my hand and said, 'they're all white men.' I was laughed at. These experiences have driven me to examine the environments we create for the scientists we recruit and to build them to support everyone.
 
 **My Goals, in my current work and beyond**
 * Create an open and inclusive research environment where all voices are heard
 * Actively recruit candidates from underrepresented backgrounds
-* Create a space for sustained dialogue on issues of diversity, equity, and inclusion through dedicated lab meetings and lab culture assessments
+* Create a space for sustained dialogue on issues of diversity, equity, inclusion, and justice through dedicated lab meetings and lab culture assessments
 * Respect that each person is unique and adapt mentorship accordingly
 * Support the whole person, not just the science, and promote work-life balance
 * Celebrate everyone’s work
 * Seek diversity in the papers I read and the speakers I invite
 * Recognize and fund all work towards diversity, equity, and inclusion
 * Establish expectations and acceptable behavior through a code of conduct
-* Maintain transparency and accountability in our efforts
+* Maintain transparency and accountability in my efforts
 
 ## Past Actions
 * Served in the Association for Women in Computing, 2011-2014
@@ -37,7 +37,7 @@ My lived experience as a woman in predominantly male fields (computer science, t
 * Volunteered at SF Unified high schools and City College SF, 2016-2019
 * Volunteered for the Promoting Underrepresented Minority Advancement in Science program at the Gladstone Institutes, 2016-2019
 * Contributed to my postdoctoral lab's DEI plan, including drafting its public [diversity statement](https://giocomolab.weebly.com/philosophy.html), 2020
-* Contributed to a formal proposal to the Simons Foundation which led to the creation of the [SURF porgram](https://www.simonsfoundation.org/grant/scgb-undergraduate-research-fellowship-surf-program/) to fund research by underrepresented undergraduates, 2020
+* Contributed to a formal proposal to the Simons Foundation which led to the creation of the [SURF program](https://www.simonsfoundation.org/grant/scgb-undergraduate-research-fellowship-surf-program/) to fund research by underrepresented undergraduates, 2020
 
 ## Current Actions
 Increasing diversity requires identifying lack of representation and seeking to reconstruct the institutions that created it. To help identify this in citations, I created a [citation overrepresentation tool](https://github.com/emilyasterjones/bioRxiv_speaker_finder), a Jupyter notebook that takes a bibliography and returns which labs, institutions, & journals you cite the most. This was inspired by a [similar tool](https://github.com/dalejn/cleanBib) which identifies the gender distribution of citations. To start to reconstruct the system that created this bias, my practice and recommendations are to remove bias from literature searches and actively seek out underrepresented voices. For the first part, I recommend subscribing to bioRxiv and 'lower impact' journal tables of contents and using keyword searches in literature searches rather than just citing papers mentioned in reviews. For the second part, I recommend finding scientists through [#BlackinNeuro](https://www.blackinneuro.com/profiles) and [similar lists](/grs/) to follow on Twitter, Pubmed, and ResearchGate. These lists are incredible, though they do put the onus on underrepresented scientists to identify themselves. To try to contribute to that effort, I created a second Jupyter notebook, a [speaker finder tool](https://github.com/emilyasterjones/bioRxiv_speaker_finder) which, given a list of keywords, searches bioRxiv & Pubmed and returns the authors with the most publications that match that keyword, including contact information. It can also optionally estimate the gender and ethnicity of the speakers using APIs, though there are many caveats to this approach, as discussed in the notebook.
