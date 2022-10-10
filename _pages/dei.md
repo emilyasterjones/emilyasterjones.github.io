@@ -65,4 +65,5 @@ I welcome all feedback on this statement and any of my DEI work. Please email me
 * Identify the [gender breakdown](https://github.com/dalejn/cleanBib) and [lab/institution/journal breakdown](https://github.com/emilyasterjones/bioRxiv_speaker_finder) of your bibliography
 * A collection of articles about [building a healthy lab culture](https://twitter.com/KristinMBranson/status/1295739138973536258)
 * [Patching the Leaks: Revitalizing and Reimagining the STEM Pipeline](https://www.cell.com/cell/fulltext/S0092-8674(20)31226-5)
+* [Avoiding racial equity detours](https://www1.ascd.org/el/articles/avoiding-racial-equity-detours)
 * I attended the [UCSF TRAIN-UP Inclusive Research Mentor Course](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course) in 2016 and highly recommend it!
