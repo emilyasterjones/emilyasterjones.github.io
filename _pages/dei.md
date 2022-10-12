@@ -66,4 +66,5 @@ I welcome all feedback on this statement and any of my DEI work. Please email me
 * A collection of articles about [building a healthy lab culture](https://twitter.com/KristinMBranson/status/1295739138973536258)
 * [Patching the Leaks: Revitalizing and Reimagining the STEM Pipeline](https://www.cell.com/cell/fulltext/S0092-8674(20)31226-5)
 * [Avoiding racial equity detours](https://www1.ascd.org/el/articles/avoiding-racial-equity-detours)
+* [10 simgle rules for successfully supporting first-generation/low-income (FLI) students in STEM](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010499)
 * I attended the [UCSF TRAIN-UP Inclusive Research Mentor Course](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course) in 2016 and highly recommend it!
