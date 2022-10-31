@@ -7,6 +7,29 @@ author_profile: true
 
 {% include base_path %}
 
+## Chronic Neuropixels in Mice
+
+![annotated CAD diagrams of complete implant assembly](../images/chronic_npx_mouse.png)
+
+I developed protocols to chronically, recoverably implant Neuropixels 1.0 probes into mice and record during a freely moving automated (non)match to direction task. I'm releasing the build files, code, and detailed protocols in time for SfN 2022.
+
+**Protocols**
+* [Assembly](https://www.protocols.io/view/assembly-chronic-recoverable-neuropixels-in-mice-b4rpqv5n)
+* [Implant surgery](https://www.protocols.io/view/implant-surgery-chronic-recoverable-neuropixels-in-b4mgqu3w)
+* [Explant surgery](https://www.protocols.io/view/explant-surgery-chronic-recoverable-neuropixels-in-b4rqqv5w)
+* [Building a SpikeGLX rig with camera](https://www.protocols.io/view/building-a-spikeglx-rig-with-camera-chronic-recove-b4wqqxdw)
+* [Building an automated delayed (non)match to direction task and integrating with simultaneous freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-cikvucw6)
+
+**Scripts and Build Files**
+*[Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
+*[Task maze and video acquisition](https://github.com/emilyasterjones/X_maze)
+
+**Parts Lists**
+*[Neuropixels acquisition system](https://docs.google.com/spreadsheets/d/1dzmCTYdFU54TryucAAs54yaBNL6CzsmFbZqD47Ov0fE/edit#gid=0)
+*[Machine vision camera](https://docs.google.com/spreadsheets/d/1Pm71awCAiUaXbanPItsCrVyA21K9Knjyp2oHz5d5NyU/edit#gid=0)
+*[Freely moving apparatus and tracks](https://docs.google.com/spreadsheets/d/1SYwB3XfxX3x9V-5mWu4-nAAWkpCfP1KWykBQbWTadgo/edit#gid=0)
+
+
 ## Publications
 * [code](https://github.com/emilyasterjones/interneurons_modulate_drive) and [data](https://gui.dandiarchive.org/#/dandiset/000165) for Aery Jones et al, 2021
 * [code](https://github.com/emilyasterjones/SWR-predictions) and [data](http://crcns.org/data-sets/hc/hc-26/about-hc-26) for Jones et al, 2019

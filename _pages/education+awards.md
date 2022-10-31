@@ -16,6 +16,7 @@ redirect_from:
 **Fellowships**
 * A.P. Giannini Foundation Postdoctoral Research Fellowship
 * School of Medicine Dean's Postdoctoral Fellowship
+* Stanford Jump Start Award for Research Excellence
 
 ## PhD in Biomedical Sciences
 **University of California, San Francisco, October 2019**

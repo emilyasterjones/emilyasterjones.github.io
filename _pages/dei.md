@@ -13,7 +13,7 @@ redirect_from:
 
 
 ## DEI Goals & Philosophy
-I have an obligation to help elevate scientists (and future scientists) from underrepresented backgrounds - as defined by race, ethnicity, gender, sexual orientation, disability, or socioeconomic status - to their next destination in their career journey. I was given these opportunities as a student with many advantages, and I must use those privileges to support and advocate for others without those advantages.
+I have an obligation to help elevate scientists (and future scientists) from historically excluded groups to their next destination in their career journey. I was given these opportunities as a student with many advantages, and I must use those privileges to support and advocate for others without those advantages.
 
 As a neuroscientist, I understand how important brain states are to cognitive function; creating spaces in which everyone thrives is critical to do good science. I will pay attention to and call attention to discriminatory structures, because you can't fix what you don't acknowledge. I will center underrepresented voices in conversations. I will help reimagine exclusive systems to build an environment in which everyone can participate and is encouraged to do so. I will adapt my mentoring practices to meet trainees where they are. I will celebrate differences as a source of strength. I will make this work transparent by posting it here, seek accountability by asking for feedback from the community, and recognize that work in the acknowledgments below.
 
