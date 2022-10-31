@@ -18,16 +18,18 @@ I developed protocols to chronically, recoverably implant Neuropixels 1.0 probes
 * [Implant surgery](https://www.protocols.io/view/implant-surgery-chronic-recoverable-neuropixels-in-b4mgqu3w)
 * [Explant surgery](https://www.protocols.io/view/explant-surgery-chronic-recoverable-neuropixels-in-b4rqqv5w)
 * [Building a SpikeGLX rig with camera](https://www.protocols.io/view/building-a-spikeglx-rig-with-camera-chronic-recove-b4wqqxdw)
-* [Building an automated delayed (non)match to direction task and integrating with simultaneous freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-cikvucw6)
+* [Building the maze and integrating with freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-cikvucw6)
 
 **Scripts and Build Files**
-*[Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
-*[Task maze and video acquisition](https://github.com/emilyasterjones/X_maze)
+
+* [Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
+* [Task maze and video acquisition](https://github.com/emilyasterjones/X_maze)
 
 **Parts Lists**
-*[Neuropixels acquisition system](https://docs.google.com/spreadsheets/d/1dzmCTYdFU54TryucAAs54yaBNL6CzsmFbZqD47Ov0fE/edit#gid=0)
-*[Machine vision camera](https://docs.google.com/spreadsheets/d/1Pm71awCAiUaXbanPItsCrVyA21K9Knjyp2oHz5d5NyU/edit#gid=0)
-*[Freely moving apparatus and tracks](https://docs.google.com/spreadsheets/d/1SYwB3XfxX3x9V-5mWu4-nAAWkpCfP1KWykBQbWTadgo/edit#gid=0)
+
+* [Neuropixels acquisition system](https://docs.google.com/spreadsheets/d/1dzmCTYdFU54TryucAAs54yaBNL6CzsmFbZqD47Ov0fE/edit#gid=0)
+* [Machine vision camera](https://docs.google.com/spreadsheets/d/1Pm71awCAiUaXbanPItsCrVyA21K9Knjyp2oHz5d5NyU/edit#gid=0)
+* [Freely moving apparatus and tracks](https://docs.google.com/spreadsheets/d/1SYwB3XfxX3x9V-5mWu4-nAAWkpCfP1KWykBQbWTadgo/edit#gid=0)
 
 
 ## Publications
