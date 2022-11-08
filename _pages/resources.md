@@ -21,11 +21,11 @@ Chronic recoverable implant based off of [(Juavinett et al, 2019)](https://elife
 (Non)match to direction task based off of the H maze, originally published in [(Seigle & Wilson, 2014)](https://elifesciences.org/articles/03061) with a detailed protocol published in [(Wirtshafter, Quan, & Wilson, 2021)](https://bio-protocol.org/e3947).
 
 **Protocols**
-* [Assembly](https://www.protocols.io/view/assembly-chronic-recoverable-neuropixels-in-mice-b4rpqv5n)
-* [Implant surgery](https://www.protocols.io/view/implant-surgery-chronic-recoverable-neuropixels-in-b4mgqu3w)
-* [Explant surgery](https://www.protocols.io/view/explant-surgery-chronic-recoverable-neuropixels-in-b4rqqv5w)
-* [Building a SpikeGLX rig with camera](https://www.protocols.io/view/building-a-spikeglx-rig-with-camera-chronic-recove-b4wqqxdw)
-* [Building the maze and integrating with freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-cikvucw6)
+* [Assembly](https://www.protocols.io/view/assembly-chronic-recoverable-neuropixels-in-mice-eq2lynnewvx9/v2)
+* [Implant surgery](https://www.protocols.io/view/implant-surgery-chronic-recoverable-neuropixels-in-yxmvmnn2bg3p/v2)
+* [Explant surgery](https://www.protocols.io/view/explant-surgery-chronic-recoverable-neuropixels-in-bp2l6113dvqe/v2)
+* [Building a SpikeGLX rig with camera](https://www.protocols.io/view/building-a-spikeglx-rig-with-camera-chronic-recove-kxygxzzxkv8j/v1)
+* [Building the maze and integrating with freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-n92ldzz2ov5b/v3)
 
 **Scripts and Build Files**
 * [Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
