@@ -11,7 +11,14 @@ author_profile: true
 
 ![annotated CAD diagrams of complete implant assembly](../images/chronic_npx_mouse.png)
 
-I developed protocols to chronically, recoverably implant Neuropixels 1.0 probes into mice and record during a freely moving automated (non)match to direction task. I'm releasing the build files, code, and detailed protocols in time for SfN 2022.
+I developed protocols to chronically, recoverably implant Neuropixels 1.0 probes into mice and record during a freely moving automated (non)match to direction task. I'm releasing the build files, code, and detailed protocols in time for SfN 2022. If you can attend, come chat with me! I'll have [handouts](../files/chronic_NPX_handout.pdf) and demo implants at the Neuropixels booth (#3200) Wednesday 11am-12pm and at my poster (741.05, board VV27) Wednesday afternoon.
+
+Chronic recoverable implant based off of [(Juavinett et al, 2019)](https://elifesciences.org/articles/47188), modified by Janna Aarse, who generously shared her build files with me to modify. See also other chronic reocverable designs:
+* for rats [(Luo & Bondy et al, 2020)](https://elifesciences.org/articles/59716)
+* Neuropixels 2.0 [(Steinmetz, Aydin, Lebedeva, Okun, & Pachitariu et al, 2021)](https://www.science.org/doi/10.1126/science.abf4588)
+* overview: [Neuropixels 2021 course lecture 3.7](https://www.youtube.com/watch?v=7cZqYIiGvBQ&list=PLfhWmWntvjl64ti_a-MzHlwqwEU0ZlALb&index=18) by Yoh Isogai
+
+(Non)match to direction task based off of the H maze, originally published in [(Seigle & Wilson, 2014)](https://elifesciences.org/articles/03061) with a detailed protocol published in [(Wirtshafter, Quan, & Wilson, 2021)](https://bio-protocol.org/e3947).
 
 **Protocols**
 * [Assembly](https://www.protocols.io/view/assembly-chronic-recoverable-neuropixels-in-mice-b4rpqv5n)
@@ -21,12 +28,10 @@ I developed protocols to chronically, recoverably implant Neuropixels 1.0 probes
 * [Building the maze and integrating with freely moving recording](https://www.protocols.io/view/freely-moving-recording-chronic-recoverable-neurop-cikvucw6)
 
 **Scripts and Build Files**
-
 * [Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
 * [Task maze and video acquisition](https://github.com/emilyasterjones/X_maze)
 
 **Parts Lists**
-
 * [Neuropixels acquisition system](https://docs.google.com/spreadsheets/d/1dzmCTYdFU54TryucAAs54yaBNL6CzsmFbZqD47Ov0fE/edit#gid=0)
 * [Machine vision camera](https://docs.google.com/spreadsheets/d/1Pm71awCAiUaXbanPItsCrVyA21K9Knjyp2oHz5d5NyU/edit#gid=0)
 * [Freely moving apparatus and tracks](https://docs.google.com/spreadsheets/d/1SYwB3XfxX3x9V-5mWu4-nAAWkpCfP1KWykBQbWTadgo/edit#gid=0)
