@@ -12,15 +12,18 @@ I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how med
 
 Previously, I completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My [thesis work](/research) measured hippocampal sharp-wave ripples as [a biomarker for Alzheimer's disease](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1), as [a readout for input drive as modulated by different interneuron subclasses](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7), and as a marker for epileptiform activity in Alzheimer's model mice (ongoing).
 
-As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I also co-chair the upcoming [Inhibition in the CNS GRS](/grs).
+As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I'm also co-chairing the upcoming [Inhibition in the CNS GRS](/grs).
 
 **Recent Updates**
 
+November 2022: I released my [chronic, recoverable Neuropixels implant design](/resources) for anyone to use.
+
 March 2022: I was awarded the [A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
 
-December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, is published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
+December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, was published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 
 July 2021: I was awarded the [Stanford School of Medicine Dean's Postdoctoral Fellowship](https://postdocs.stanford.edu/deans-fellows-july-2021-start).
 
 **Contact**
-[Email](mailto:emily.aery.jones@stanford.edu) | [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/) | [Twitter](https://twitter.com/EmilyAeryJones) | [Github](https://github.com/emilyasterjones/) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50)
+
+[Email](mailto:emily.aery.jones@stanford.edu) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50) | [Twitter](https://twitter.com/EmilyAeryJones) | [Mastodon](https://qoto.org/@emily_aeryjones) | [Github](https://github.com/emilyasterjones/)
