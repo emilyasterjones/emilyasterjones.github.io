@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Emily A. Aery Jones"
+  name             : #"Emily A. Aery Jones"
   avatar           : "headshot.jpg"
   bio              : "she/her"
   location         : #"Location"
