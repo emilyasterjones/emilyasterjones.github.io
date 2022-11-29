@@ -24,6 +24,5 @@ December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneu
 
 July 2021: I was awarded the [Stanford School of Medicine Dean's Postdoctoral Fellowship](https://postdocs.stanford.edu/deans-fellows-july-2021-start).
 
-**Contact**
-
+**Contact:** 
 [Email](mailto:emily.aery.jones@stanford.edu) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50) | [Twitter](https://twitter.com/EmilyAeryJones) | [Mastodon](https://qoto.org/@emily_aeryjones) | [Github](https://github.com/emilyasterjones/)
