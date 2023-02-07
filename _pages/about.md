@@ -16,13 +16,14 @@ As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service).
 
 **Recent Updates**
 
+February 2023: Kei Masuda's thesis work, _Ketamine evoked disruption of entorhinal and hippocampal spatial maps_, on which I am co-author, is released as a [biRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
+
+December 2022: My review with Dr. Lisa Giocomo, _Neural ensembles in navigation: from single cells to population codes_, is published in [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
+
 November 2022: I released my [chronic, recoverable Neuropixels implant design](/resources) for anyone to use.
 
 March 2022: I was awarded the [A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
 
-December 2021: My second thesis paper, _Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1_, was published in [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
-
-July 2021: I was awarded the [Stanford School of Medicine Dean's Postdoctoral Fellowship](https://postdocs.stanford.edu/deans-fellows-july-2021-start).
 
 **Contact:** 
 [Email](mailto:emily.aery.jones@stanford.edu) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50) | [Twitter](https://twitter.com/EmilyAeryJones) | [Mastodon](https://qoto.org/@emily_aeryjones) | [Github](https://github.com/emilyasterjones/)

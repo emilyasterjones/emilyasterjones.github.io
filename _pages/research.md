@@ -18,9 +18,14 @@ _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 
 
 **Questions that interest me**
 * What content do entorhinal theta sequences and replays represent?
-* How does theta drive by medial septum organize entorhinal activity?
 * How do entorhinal theta sequences relate to replay?
-* How might organization of spatial information into theta sequences online and replays offline support reinforcement learning of goal-directed navigation?
+* How might organization of spatial information into theta sequences online and replays offline support goal-directed navigation?
+
+**Publications**
+* _Aery Jones, E.A._ (2023, February). Chronic Recoverable Neuropixels in Mice. [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v1).
+* _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Neural ensembles in navigation: from single cells to population codes. [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
+* Masuda, F.K., Sun, Y., _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Ketamine evoked disruption of entorhinal and hippocampal spatial maps. [biRxiv](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
+
 
 ## Sharp-wave ripple alterations mark memory decline and interneuron drive
 _PhD Student in Dr. Yadong Huang's lab at the Gladstone Institutes & co-mentored by Dr. Loren Frank at University of California, San Francisco, January 2015 - October 2019_
@@ -33,7 +38,7 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 **Publications**
 * [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
-* _Aery Jones, E. A._, Rao, A., Zilberter, M., Djukic, B., Bant, J.S., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
+* _Aery Jones, E. A._, Rao, A., Zilberter, M., Djukic, B., Bant, J.S., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. (2021, December). Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full)
 	* [code](https://github.com/emilyasterjones/interneurons_modulate_drive)
 	* [Twitter paper thread](https://twitter.com/EmilyAsterJones/status/1346489819891830785)
