@@ -16,6 +16,8 @@ As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service).
 
 **Recent Updates**
 
+April 2023: I wrote the first rigor and reproducibility blog post for Community For Rigor on [how to write reproducible methods](https://c4r.io/writing-methods-for-reproducibility/).
+
 February 2023: Kei Masuda's thesis work, _Ketamine evoked disruption of entorhinal and hippocampal spatial maps_, on which I am co-author, is released as a [biRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
 
 December 2022: My review with Dr. Lisa Giocomo, _Neural ensembles in navigation: from single cells to population codes_, is published in [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).

@@ -9,9 +9,9 @@ author_profile: true
 
 ## Chronic Neuropixels in Mice
 
-![annotated CAD diagrams of complete implant assembly](../images/chronic_npx_mouse.png)
+![annotated CAD diagram and photo of complete implant assembly](../images/chronic_npx_mouse.png)
 
-I developed protocols to chronically, recoverably implant single Neuropixels 1.0 probes or dual independent Neuropixels 2.0 probes into mice and record during a freely moving automated (non)match to direction task.
+I developed protocols to chronically, recoverably implant single Neuropixels 1.0 probes or dual independent Neuropixels 2.0 probes into mice and record during a freely moving automated (non)match to direction task. Check out [Open Neuroscience](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/) for a detailed description.
 
 **Protocols**
 * [Full collection](dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v1)
@@ -26,9 +26,9 @@ I developed protocols to chronically, recoverably implant single Neuropixels 1.0
 * [Task maze and video acquisition](https://github.com/emilyasterjones/X_maze)
 
 **Parts Lists**
-* [Neuropixels acquisition system](https://docs.google.com/spreadsheets/d/1dzmCTYdFU54TryucAAs54yaBNL6CzsmFbZqD47Ov0fE/edit#gid=0)
-* [Machine vision camera](https://docs.google.com/spreadsheets/d/1Pm71awCAiUaXbanPItsCrVyA21K9Knjyp2oHz5d5NyU/edit#gid=0)
-* [Freely moving apparatus and tracks](https://docs.google.com/spreadsheets/d/1SYwB3XfxX3x9V-5mWu4-nAAWkpCfP1KWykBQbWTadgo/edit#gid=0)
+* [Neuropixels acquisition system](https://github.com/emilyasterjones/X_maze/blob/main/Build/Neuropixels%20Acquisition%20System%20Parts.xlsx)
+* [Machine vision camera](https://github.com/emilyasterjones/X_maze/blob/main/Build/Mako%20G%20Camera%20Design.xlsx)
+* [Freely moving apparatus and tracks](https://github.com/emilyasterjones/X_maze/blob/main/Build/Freely%20Moving%20Recording%20Rig%20Build.xlsx)
 
 
 ## Publications
