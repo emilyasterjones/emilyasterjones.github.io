@@ -24,7 +24,8 @@ _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 
 **Publications**
 * _Aery Jones, E.A._ (2023, February). Chronic Recoverable Neuropixels in Mice. [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v1).
 * _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Neural ensembles in navigation: from single cells to population codes. [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
-* Masuda, F.K., Sun, Y., _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Ketamine evoked disruption of entorhinal and hippocampal spatial maps. [biRxiv](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
+* Masuda, F.K., Sun, Y., _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Ketamine evoked disruption of entorhinal and hippocampal spatial maps. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
+* [Video for lay audience explaining my research](https://apgianninifoundation.org/fellows/2022-fellows/)
 
 
 ## Sharp-wave ripple alterations mark memory decline and interneuron drive

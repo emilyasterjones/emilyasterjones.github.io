@@ -14,12 +14,12 @@ author_profile: true
 I developed protocols to chronically, recoverably implant single Neuropixels 1.0 probes or dual independent Neuropixels 2.0 probes into mice and record during a freely moving automated (non)match to direction task. Check out [Open Neuroscience](https://open-neuroscience.com/post/chronic_recoverable_neuropixels_in_mice/) for a detailed description.
 
 **Protocols**
-* [Full collection](dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v1)
-* [Assembly](dx.doi.org/10.17504/protocols.io.eq2lynnewvx9/v7)
-* [Implant surgery](dx.doi.org/10.17504/protocols.io.yxmvmnn2bg3p/v5)
-* [Explant surgery](dx.doi.org/10.17504/protocols.io.bp2l6113dvqe/v3)
-* [Building a SpikeGLX rig with camera](dx.doi.org/10.17504/protocols.io.kxygxzzxkv8j/v2)
-* [Building the maze and integrating with freely moving recording](dx.doi.org/10.17504/protocols.io.n92ldzz2ov5b/v5)
+* [Full collection](https://dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v2)
+* [Assembly](https://dx.doi.org/10.17504/protocols.io.eq2lynnewvx9/v7)
+* [Implant surgery](https://dx.doi.org/10.17504/protocols.io.yxmvmnn2bg3p/v6)
+* [Explant surgery](https://dx.doi.org/10.17504/protocols.io.bp2l6113dvqe/v4)
+* [Building a SpikeGLX rig with camera](https://dx.doi.org/10.17504/protocols.io.kxygxzzxkv8j/v3)
+* [Building the maze and integrating with freely moving recording](https://dx.doi.org/10.17504/protocols.io.n92ldzz2ov5b/v6)
 
 **Scripts and Build Files**
 * [Chronic implant](https://github.com/emilyasterjones/chronic_NPX_mouse)
