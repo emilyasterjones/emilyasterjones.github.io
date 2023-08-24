@@ -51,8 +51,6 @@ I wrote [2 tools](https://github.com/emilyasterjones/bioRxiv_speaker_finder) to 
 
 ## Teaching
 * [Workshop to introduce biology grad students to coding](https://github.com/emilyasterjones/BMS-coding-bootcamp)
-* [Seminar on mammalian adaptions to low oxygen environments at high altitudes and deep depths](../files/BSCI279 Presentation 1.pdf)
-* [Seminar on mammalian adaptions to low water environments in deserts and at sea](../files/BSCI279 Presentation 2.pdf)
 * [2-hour minicourse on human evolution including a species evolution RPG activity](https://github.com/emilyasterjones/what-makes-us-human)
 
 ## Course Projects
