@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+**Mentor Coach**
+
+_Sept 2023 - Present_
+* I was selected to be part of the inaugural cohort of [postdoc mentor coaches](https://postdocs.stanford.edu/events/series/mentoring-training) at Stanford. We design and teach curriculum to Stanford's 2500 postdocs on how to be a culturally inclusive mentor.
+
 **Rotation Student Mentor**
 
 _Winter 2022_
@@ -33,7 +38,7 @@ _[Project Short](https://www.project-short.com/vision.html) and the [Stanford Ne
 
 **[Gordon Research Seminar (GRS) Co-Chair](/grs)**
 
-_[Inhibition in the CNS GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), 2019 - Present_
+_[Inhibition in the CNS GRS](https://www.grc.org/inhibition-in-the-cns-grs-conference/2021/), 2019 - 2023_
 * Designing a diverse & inclusive conference
 * Fundraising from scientific companies and foundations
 * Recruiting to build a diverse agenda of speakers

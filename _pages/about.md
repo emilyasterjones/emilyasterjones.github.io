@@ -12,9 +12,11 @@ I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how med
 
 Previously, I completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My [thesis work](/research) measured hippocampal sharp-wave ripples as [a biomarker for Alzheimer's disease](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1), as [a readout for input drive as modulated by different interneuron subclasses](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7), and as a marker for epileptiform activity in Alzheimer's model mice (ongoing).
 
-As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I'm also co-chairing the upcoming [Inhibition in the CNS GRS](/grs).
+As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I previously co-chaired the [2023 Inhibition in the CNS GRS](/grs).
 
 **Recent Updates**
+
+September 2023: I was awarded an NINDS K99/R00 Career Transition Award to complete my postdoctoral studies and start my own lab. I was also selected to be a mentor coach, designing and teaching curriculum on culturally inclusive mentorship for Stanford postdocs.
 
 April 2023: I wrote the first rigor and reproducibility blog post for Community For Rigor on [how to write reproducible methods](https://c4r.io/writing-methods-for-reproducibility/).
 

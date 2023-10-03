@@ -13,6 +13,9 @@ redirect_from:
 ## Postdoctoral Fellowship in Neurobiology
 **Stanford University, Present**
 
+**Career Development Awards**
+* NINDS K99/R00 Career Transition Award
+
 **Fellowships**
 * A.P. Giannini Foundation Postdoctoral Research Fellowship
 * School of Medicine Dean's Postdoctoral Fellowship
