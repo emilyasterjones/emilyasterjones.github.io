@@ -16,6 +16,8 @@ As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service).
 
 **Recent Updates**
 
+October 2023: Data from my 2 PhD papers was used to develop a method to identify dentate spikes by waveform in a [new preprint by Rodrigo Santiago](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1).
+
 September 2023: I was awarded an NINDS K99/R00 Career Transition Award to complete my postdoctoral studies and start my own lab. I was also selected to be a mentor coach, designing and teaching curriculum on culturally inclusive mentorship for Stanford postdocs.
 
 April 2023: I wrote the first rigor and reproducibility blog post for Community For Rigor on [how to write reproducible methods](https://c4r.io/writing-methods-for-reproducibility/).
@@ -25,8 +27,6 @@ February 2023: Kei Masuda's thesis work, _Ketamine evoked disruption of entorhin
 December 2022: My review with Dr. Lisa Giocomo, _Neural ensembles in navigation: from single cells to population codes_, is published in [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
 
 November 2022: I released my [chronic, recoverable Neuropixels implant design](/resources) for anyone to use.
-
-March 2022: I was awarded the [A.P. Giannini Foundation Postdoctoral Research Fellowship](https://apgianninifoundation.org/postdoctoral-research-fellowship-and-leadership-award/).
 
 
 **Contact:** 
