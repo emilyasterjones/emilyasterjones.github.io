@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-**Mentor Coach**
+**Ad hoc Reviewer**
 
-_Sept 2023 - Present_
-* I was selected to be part of the inaugural cohort of [postdoc mentor coaches](https://postdocs.stanford.edu/events/series/mentoring-training) at Stanford. We design and teach curriculum to Stanford's 2500 postdocs on how to be a culturally inclusive mentor.
+_March 2020 - Present_
+* Cosyne, Nature Neuroscience, Science Advances, Neuron, Journal of Neuroscience, and Neurobiology of Disease
 
 **Rotation Student Mentor**
 
@@ -34,7 +34,7 @@ _Summer 2020_
 
 **Pre-Grad Mentor**
 
-_[Project Short](https://www.project-short.com/vision.html) and the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html), 2020 - Present_
+_[Project Short](https://www.project-short.com/vision.html), the [Stanford Neuroscience Graduate Application Assistance Program](https://med.stanford.edu/neurogradprogram/prospective_students.html), and [DisabledinSTEM](https://disabledinstem.wordpress.com/), 2020 - Present_
 
 **[Gordon Research Seminar (GRS) Co-Chair](/grs)**
 

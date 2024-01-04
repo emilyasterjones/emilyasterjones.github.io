@@ -11,21 +11,28 @@ redirect_from:
 
 _Full publication list on [Pubmed](https://www.ncbi.nlm.nih.gov/myncbi/1T7XaRDS9jyQh/bibliography/public/), [ORCID](http://orcid.org/0000-0001-8180-3267), [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50), and [Google Scholar](https://scholar.google.com/citations?user=YGv9YqAAAAAJ&hl=en)_
 
-## Investigating how medial entorhinal cortical sequences support spatial navigation and learning
+## Non-local coding in medial entorhinal cortex adapts over learning
 _Postdoctoral fellow in Dr. Lisa Giocomo's lab at Stanford University, November 2019 - Present_
 
 ![Postdoc project](../images/Aims.png)
 
-**Questions that interest me**
-* What content do entorhinal theta sequences and replays represent?
-* How do entorhinal theta sequences relate to replay?
-* How might organization of spatial information into theta sequences online and replays offline support goal-directed navigation?
+Neurons can collectively represent the current sensory experience while an animal is engaged with its external environment or a remote sensory experience while an animal is disengaged. These remote representations support computations critical for learning, such as evaluating options to make a decision. Neurons in the medial entorhinal cortex (MEC) reflect the animal’s current location during movement, but little is known about what MEC neurons collectively represent during immobility, when the animal might be disengaged from the environment. Could these be remote representations that support spatial learning? We recorded neurons in the MEC as mice learned to associate two pairs of rewarded locations. We found that during immobility, the MEC neural population frequently represented positions far from the animal’s location. MEC non-local coding had only been previously reported during sharp-wave ripples (SWRs) from the downstream hippocampus, yet we observed non-local coding was far more common outside of SWRs. Non-local coding was more prevalent at decision points and covered larger areas over learning, suggesting non-local coding could be involved in retrieving options to inform correct choices. Non-local coding at rewarded locations represented the paired reward location in a task rule-dependent manner, suggesting non-local coding may strengthen contextual associations. We propose that MEC non-local coding could help animals learn relevant spatial information by providing a substrate to evaluate options and strengthen contextual associations.
 
 **Publications**
 * Masuda, F.K.,  _Aery Jones, E.A.+_, Sun, Y.+, Giocomo, L.M. (2023, October). Ketamine evoked disruption of entorhinal and hippocampal spatial maps. [Nature Communications](https://www.nature.com/articles/s41467-023-41750-4). (+equal contribution)
 * _Aery Jones, E.A._ (2023, February). Chronic Recoverable Neuropixels in Mice. [protocols.io](dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v1).
 * _Aery Jones, E.A._, Giocomo, L.M. (2023, February). Neural ensembles in navigation: from single cells to population codes. [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
 * [Video for lay audience explaining my research](https://apgianninifoundation.org/fellows/2022-fellows/)
+
+**Invited Talks**
+* December 2023: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Stony Brook University Department of Neurobiology and Behavior in Stony Brook, NY.
+* November 2023: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Georgetown University Department of Pharmacology and Physiology in Washington, DC.
+* July 2023: Dynamics of Entorhinal Reactivations over Learning. Inhibition in the CNS Gordon Research Conference in Les Diablerets, Switzerland.
+
+**Posters**
+* November 2023: Dynamics of Entorhinal Reactivations over Learning. Society for Neuroscience Annual Meeting in Washington, DC.
+* July 2023: Dynamics of Entorhinal Reactivations over Learning. Inhibition in the CNS Gordon Research Seminar and Conference in Les Diablerets, Switzerland.
+* November 2022: Investigating How Medial Entorhinal Cortical Sequences Support Spatial Navigation and Learning. Society for Neuroscience Annual Meeting in San Diego, CA.
 
 
 ## Sharp-wave ripple alterations mark memory decline and interneuron drive

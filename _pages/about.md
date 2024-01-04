@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how medial entorhinal cortex might act as an adaptable substrate to support spatial learning over days. Specifically, I am interested in how organization of spatial information into sequences during task engagement and replay of these sequences during task disengagement might change as learning progresses and might be required for learning.
+I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how medial entorhinal cortex might act as an adaptable substrate to support spatial learning over days. I designed an [electrode implantation technique](https://dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v2) that allows recording of hundreds of neurons simultaneously from multiple brain regions in freely moving mice. With this technique, I observed that neurons in the medial entorhinal cortex frequently represent remote sensory experiences during immobility. This phenomenon appears to support learning by retrieving information to evaluate options and strengthen contextual associations
 
 Previously, I completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My [thesis work](/research) measured hippocampal sharp-wave ripples as [a biomarker for Alzheimer's disease](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1), as [a readout for input drive as modulated by different interneuron subclasses](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7), and as a marker for epileptiform activity in Alzheimer's model mice (ongoing).
 
-As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I previously co-chaired the [2023 Inhibition in the CNS GRS](/grs).
+My future research interests are to dissect how the hippocampal circuit can flexibly perform distinct computations to support spatial memory and how these computations degrade in aging and Alzheimer's disease. As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I previously co-chaired the [2023 Inhibition in the CNS GRS](/grs).
 
 **Recent Updates**
+
+November-December 2023: I gave invited seminars at Georgetown University's Department of Pharmacology and Physiology and Stony Brook University's Department of Neurobiology and Behavior.
 
 October 2023: Data from my 2 PhD papers was used to develop a method to identify dentate spikes by waveform in a [new preprint by Rodrigo Santiago](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1).
 
@@ -23,10 +25,6 @@ September 2023: I was awarded an NINDS K99/R00 Career Transition Award to comple
 April 2023: I wrote the first rigor and reproducibility blog post for Community For Rigor on [how to write reproducible methods](https://c4r.io/writing-methods-for-reproducibility/).
 
 February 2023: Kei Masuda's thesis work, _Ketamine evoked disruption of entorhinal and hippocampal spatial maps_, on which I am co-author, is released as a [biRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
-
-December 2022: My review with Dr. Lisa Giocomo, _Neural ensembles in navigation: from single cells to population codes_, is published in [Current Opinion in Neurobiology](https://authors.elsevier.com/c/1gH1-3Q9h2Aqkv).
-
-November 2022: I released my [chronic, recoverable Neuropixels implant design](/resources) for anyone to use.
 
 
 **Contact:** 

@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+## Stanford University
+
+**Postdoc Mentor Coach: September 2023 - Present**
+I was selected to be part of the inaugural cohort of [mentor coaches](https://postdocs.stanford.edu/events/series/postdoc-mentoring-coaches). We design and teach curriculum to Stanford's 2500 postdocs based on the [Entering Mentoring](https://cimerproject.org/facilitating-entering-mentoring/).
 
 ## University of California, San Francisco, Graduate Division
 
