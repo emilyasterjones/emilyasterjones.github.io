@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Ad hoc Reviewer**
+**Ad Hoc Reviewer**
 
 _March 2020 - Present_
 * Cosyne, Nature Neuroscience, Science Advances, Neuron, Journal of Neuroscience, and Neurobiology of Disease

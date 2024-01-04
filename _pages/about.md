@@ -18,14 +18,11 @@ My future research interests are to dissect how the hippocampal circuit can flex
 
 November-December 2023: I gave invited seminars at Georgetown University's Department of Pharmacology and Physiology and Stony Brook University's Department of Neurobiology and Behavior.
 
-October 2023: Data from my 2 PhD papers was used to develop a method to identify dentate spikes by waveform in a [new preprint by Rodrigo Santiago](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1).
+October 2023: Data from my 2 PhD papers was used to develop a method to identify dentate spikes by waveform in a [new preprint by Rodrigo Santiago](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1). Kei Masuda's thesis work, _Ketamine evoked disruption of entorhinal and hippocampal spatial maps_, on which I am second author, is published in [Nature Communications](https://www.nature.com/articles/s41467-023-41750-4).
 
 September 2023: I was awarded an NINDS K99/R00 Career Transition Award to complete my postdoctoral studies and start my own lab. I was also selected to be a mentor coach, designing and teaching curriculum on culturally inclusive mentorship for Stanford postdocs.
 
 April 2023: I wrote the first rigor and reproducibility blog post for Community For Rigor on [how to write reproducible methods](https://c4r.io/writing-methods-for-reproducibility/).
-
-February 2023: Kei Masuda's thesis work, _Ketamine evoked disruption of entorhinal and hippocampal spatial maps_, on which I am co-author, is released as a [biRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.02.05.527227v1).
-
 
 **Contact:** 
 [Email](mailto:emily.aery.jones@stanford.edu) | [ResearchGate](https://www.researchgate.net/profile/Emily_Jones50) | [Twitter](https://twitter.com/EmilyAeryJones) | [Mastodon](https://qoto.org/@emily_aeryjones) | [Github](https://github.com/emilyasterjones/)
