@@ -62,6 +62,7 @@ _Gladstone Institutes Promoting Underrepresented Minority Advancement in Science
 * Mentored a community college student with no lab experience to build confidence and skill in reading and presenting papers, conducting lab work, analyzing data, and defending a poster presentation
 * Taught two workshops for interns
 * Worked with outreach staff to evaluate candidate applications and design the program's structure
+* My institute published [an article I wrote](https://gladstone.org/news/heart-mentoring) about my experience
 
 **Education and Outreach Committee Chair**
 
