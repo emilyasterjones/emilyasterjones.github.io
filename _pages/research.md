@@ -46,7 +46,8 @@ Hippocampal sharp-wave ripples (SWRs) – electrophysiological signatures of mem
 
 **Publications**
 * [PhD Thesis](https://escholarship.org/uc/item/2bc340d2)
-* Santiago, R.M.M., Lopes-dos-Santos, V., Aery Jones, E.A., Huang, Y., Dupret, D., Tort, A.B.L. (2023, October). Waveform-based classification of dentate spikes. [bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1).
+* Santiago, R.M.M., Lopes-dos-Santos, V., Aery Jones, E.A., Huang, Y., Dupret, D., Tort, A.B.L. (2024, February). Waveform-based classification of dentate spikes. [Scientific Reports](https://doi.org/10.1038/s41598-024-53075-3).
+	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.10.24.563826v1).
 * _Aery Jones, E. A._, Rao, A., Zilberter, M., Djukic, B., Bant, J.S., Gillespie, A. K., Koutsodendris, N., Nelson, M., Yoon, S. Y., Huang, K., Yuan, H., Gill, T. M., Huang, Y., & Frank, L. M. (2021, December). Dentate Gyrus and CA3 GABAergic Interneurons Bidirectionally Modulate Signatures of Internal and External Drive to CA1. [Cell Reports](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 	* [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2021.01.04.425303v1.full)
 	* [code](https://github.com/emilyasterjones/interneurons_modulate_drive)
