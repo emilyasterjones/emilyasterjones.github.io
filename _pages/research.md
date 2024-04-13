@@ -25,7 +25,8 @@ Neurons can collectively represent the current sensory experience while an anima
 * [Video for lay audience explaining my research](https://apgianninifoundation.org/fellows/2022-fellows/)
 
 **Invited Talks**
-* December 2023: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Stony Brook University Department of Neurobiology and Behavior in Stony Brook, NY.
+* April 2024: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Yale University Department of Neuroscience SYNAPSES seminar series in New Haven, CT.
+* December 2023: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Stony Brook University Department of Neurobiology and Behavior BRITE Seminar Series in Stony Brook, NY.
 * November 2023: Dynamics of Hippocampal Inputs in Learning and Alzheimer’s Disease. Georgetown University Department of Pharmacology and Physiology in Washington, DC.
 * July 2023: Dynamics of Entorhinal Reactivations over Learning. Inhibition in the CNS Gordon Research Conference in Les Diablerets, Switzerland.
 
