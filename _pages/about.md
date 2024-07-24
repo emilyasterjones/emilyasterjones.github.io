@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University studying how medial entorhinal cortex might act as an adaptable substrate to support spatial learning over days. I designed an [electrode implantation technique](https://dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v2) that allows recording of hundreds of neurons simultaneously from multiple brain regions in freely moving mice. With this technique, I observed that neurons in the medial entorhinal cortex frequently represent remote sensory experiences during immobility. This phenomenon appears to support learning by retrieving information to strengthen associations between locations.
+I am a postdoc in Dr. Lisa Giocomo's lab at Stanford University. I designed an [electrode implantation technique](https://dx.doi.org/10.17504/protocols.io.e6nvwjo87lmk/v2) that allows recording of hundreds of neurons simultaneously from multiple brain regions in freely moving mice. With this technique, I observed that neurons in the medial entorhinal cortex frequently represent remote sensory experiences during immobility. These representations are independent of both SWRs and other CA1 activity and reflect task-relevant associations between locations at pertinent times. This work, which was recently released as a [preprint](https://www.biorxiv.org/content/10.1101/2024.07.23.604815v1), suggests a novel role for MEC in encoding task-relevant spatial associations beyond the context of movement and SWRs.
 
 Previously, I completed my PhD at UCSF in the lab of Dr. Yadong Huang and co-mentored by Dr. Loren Frank. My [thesis work](/research) measured hippocampal sharp-wave ripples as [a biomarker for Alzheimer's disease](https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31370-1) and as [a readout for input drive as modulated by different interneuron subclasses](https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01655-7).
 
-My future research interests are to dissect how the hippocampal circuit can flexibly perform distinct computations to support spatial memory and how these computations degrade in aging and Alzheimer's disease. As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I previously co-chaired the [2023 Inhibition in the CNS GRS](/grs).
+As part of my research, I enjoy [teaching](/teaching) and [mentoring](/service). I specifically direct my time towards [mentoring](/dei) and [creating resources](/resources) and opportunities for marginalized scientists. I previously co-chaired the [2023 Inhibition in the CNS GRS](/grs).
+
+My future research program will dissect how the hippocampal circuit can flexibly perform distinct computations to support spatial memory and how these computations degrade in aging and Alzheimer's disease. This work will be funded by my NINDS K99/R00 Career Transition Award. **I am currently applying for tenure-track positions** at R1 universities in the Northeast, mid-Atlantic, and Midwest.
+
 
 **Recent Updates**
+
+July 2024: My main postdoc work, _Entorhinal cortex represents task-relevant remote locations independent of CA1_, is [released as a preprint](https://www.biorxiv.org/content/10.1101/2024.07.23.604815v1).
 
 June 2024: A new study discovering hippocampal signatures of epilepsy in Alzheimer's model mice, on which I am middle author, is [released as a preprint](https://www.biorxiv.org/content/10.1101/2023.08.28.555153v2).
 
