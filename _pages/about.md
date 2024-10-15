@@ -19,6 +19,8 @@ My future research program will dissect how the hippocampal circuit can flexibly
 
 **Recent Updates**
 
+October 2024: John Wen and Ben Sorscher's thesis work, _One-shot entorhinal maps enable flexible navigation in novel environments_, on which I am second author, is published in [Nature](https://www.nature.com/articles/s41586-024-08034-3).
+
 July 2024: My main postdoc work, _Entorhinal cortex represents task-relevant remote locations independent of CA1_, is [released as a preprint](https://www.biorxiv.org/content/10.1101/2024.07.23.604815v1).
 
 June 2024: A new study discovering hippocampal signatures of epilepsy in Alzheimer's model mice, on which I am middle author, is [released as a preprint](https://www.biorxiv.org/content/10.1101/2023.08.28.555153v2).
