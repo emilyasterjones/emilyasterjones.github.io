@@ -13,7 +13,7 @@ name                     : &name "Emily A. Aery Jones"
 description              : &description ""
 url                      : https://emilyjon.es # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "emilyasterjones/emilyasterjones.github.io"
+repository               : "emilyaeryjones/emilyasterjones.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "emilyasterjones"
+  github           : "emilyaeryjones"
   google_plus      :
   keybase          :
   instagram        :
